@@ -59,34 +59,37 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "IEEE UK & Ireland Young Professionals"
+  avatar : "http://www.ieeeukiyp.org/img/IEEE_UK%20&%20Ireland_YP_Logo_RGB_Horz.png"
+  bio    : "IEEE UK & Ireland (UK&I) Young Professionals is an Affinity Group for electrical, electronics, software and computer systems engineers that have graduated in the last decade. IEEE UK&I YP a professional network that assists with transitioning from university into the professional world."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "http://www.ieeeukiyp.org/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/ieeeuki.yp/"
+    - label: "Email"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "mailto:ukiyp@ieee.org"
+      
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.ieeeukiyp.org/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/ieeeuki.yp/"
+    - label: "IEEE Home"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.ieee.org/index.htm"
+    - label: "IEEE UK & Ireland Section"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.ieee-ukandireland.org/"
+    - label: "IEEE Region 8 (Europe, Middle East and Africa)"
+      icon: "fas fa-fw fa-link"
+      url: "http://www.ieeer8.org/"
 
 defaults:
   # _posts
