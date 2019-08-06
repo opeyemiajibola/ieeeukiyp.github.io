@@ -55,7 +55,7 @@ plugins:
   - jekyll-remote-theme
 
 author:
-  name   : "IEEE UK & Ireland Young Professionals"
+  name   : "IEEE UK&I YP"
   avatar : "http://www.ieeeukiyp.org/img/IEEE_UK%20&%20Ireland_YP_Logo_RGB_Horz.png"
   bio    : "IEEE UK & Ireland (UK&I) Young Professionals is an Affinity Group for electrical, electronics, software and computer systems engineers that have graduated in the last decade. IEEE UK&I YP a professional network that assists with transitioning from university into the professional world."
   links:
@@ -66,7 +66,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/ieeeuki.yp/"
     - label: "Email"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-envelope-square"
       url: "mailto:ukiyp@ieee.org"
       
 footer:
