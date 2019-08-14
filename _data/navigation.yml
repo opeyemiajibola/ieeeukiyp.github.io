@@ -1,6 +1,6 @@
 main:
   - title: "Home"
-    url: "https://ieeeukiyp.github.io/"
+    url: /home/
   - title: "About Us"
     url: /about/
   - title: "Upcoming Events"
@@ -11,3 +11,16 @@ main:
     url: /gallery/
   - title: "Contact"
     url: /contact/
+
+home_sidebar:
+  - title: "About Us"
+    url: /about/
+  - title: "Upcoming Events"
+    url: /upcoming-events/
+  - title: "Previous Events"
+    url: /previous-events/
+  - title: "Gallery"
+    url: /gallery/
+  - title: "Contact"
+    url: /contact/
+
