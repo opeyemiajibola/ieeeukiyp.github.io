@@ -4,11 +4,12 @@ date: 2019-07-15T23:34:30+01:00
 categories:
   - previous-events
 tags:
-  - Jekyll
-  - update
+  - data-science
+  - Dublin
 ---
 
-{% include youtubePlayer.html id=9cKVeiI9x1Y %}
+{% include youtubePlayer.html id=page.9cKVeiI9x1Y %}
+
 
 IEEE YP Symposium on "Impact of Data Science in Healthcare" organized by  IEEE UK&I Young Professionals in association with Think Biosolution, NDRC and The Digital Hub Development Agency.
 
