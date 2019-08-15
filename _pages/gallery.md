@@ -8,9 +8,9 @@ sidebar:
 ## Recent Events
 
 <figure class="third">
-	<img src="/assets/images/sym_dublin_2019/DSC_8479.JPG">
+	<img src="/assets/images/sym_dublin_2019/IMG_8479.jpeg">
 	<img src="/assets/images/sym_dublin_2019/2019-07-15 17.58.25.jpg">
-	<img src="/assets/images/sym_dublin_2019/2019-07-15 17.35.21.jpg">
+	<img src="/assets/images/sym_dublin_2019/2019-07-15 17.35.12.jpg">
 	<figcaption>IEEE YP Symposium on the Impact of Data Science in Healthcare, Dublin 2019</figcaption>
 </figure>
 
