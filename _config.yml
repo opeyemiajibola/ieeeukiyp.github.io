@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
-#author:
+author:
   name   : "IEEE UK & Ireland Young Professionals"
   avatar : "http://www.ieeeukiyp.org/img/IEEE_UK%20&%20Ireland_YP_Logo_RGB_Horz.png"
   bio    : "IEEE UK & Ireland (UK&I) Young Professionals is an Affinity Group for electrical, electronics, software and computer systems engineers that have graduated in the last decade. IEEE UK&I YP a professional network that assists with transitioning from university into the professional world."
