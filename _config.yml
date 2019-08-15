@@ -112,10 +112,11 @@ defaults:
       author_profile: false
   # _home
   - scope:
-      path: ""
+      path: "/home/"
       type: home
     values:
       sidebar:
+      author_profile: false
         nav: "home"
 
 category_archive:
