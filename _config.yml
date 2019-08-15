@@ -116,7 +116,6 @@ defaults:
       type: home
     values:
       sidebar:
-      author_profile: false
         nav: "home"
 
 category_archive:
