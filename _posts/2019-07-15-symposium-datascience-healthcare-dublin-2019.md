@@ -8,7 +8,7 @@ tags:
   - Dublin
 ---
 
-{% include youtubePlayer.html id=page.9cKVeiI9x1Y %}
+{% include youtubePlayer.html id="9cKVeiI9x1Y" %}
 
 
 IEEE YP Symposium on "Impact of Data Science in Healthcare" organized by  IEEE UK&I Young Professionals in association with Think Biosolution, NDRC and The Digital Hub Development Agency.
