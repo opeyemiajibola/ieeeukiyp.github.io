@@ -23,9 +23,9 @@ This **FREE ONE DAY** symposium is an opportunity for early career STEM research
 
 The symposium is open to research professionals and students across the country and beyond and we are now accepting submissions of abstracts of research work for oral/poster presentation. ONLY abstract submission is required for the oral presentation. Poster presenters will be required to print and come along with their posters. **The deadline for abstract submissions is 23rd September 2019 and free registration is OPEN UNTIL 6th October 2019.**
 
-[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform) {: .btn .btn--success}
+[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
 
-[REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform) {: .btn .btn--success}
+[REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}
 
 ## Symposium Features
 
@@ -57,7 +57,7 @@ The event focuses on research, enterprise and knowledge transfer and will compri
 The morning session of the symposium will take place in the Liberty Building of the University of Leeds. The afternoon session will take place at the Rhodes Lecture Theatre in the School of Electronic and Electrical Engineering. The two venues are less than a 10-minute walk apart.
 
 <figure class="half">
-	<img src="/assets/images/stem_leeds2019/MG_0090_smaller_resized-370x185.jpg">
+	<img src="/assets/images/stem_leeds_2019/MG_0090_smaller_resized-370x185.jpg">
 	    <figcaption>Liberty Building: LG.06</figcaption>
 
 </figure>
