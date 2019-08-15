@@ -6,6 +6,8 @@ categories:
 tags:
   - data-science
   - Dublin
+sidebar:
+  nav: "home_sidebar"
 ---
 
 {% include youtubePlayer.html id="9cKVeiI9x1Y" %}
