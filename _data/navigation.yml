@@ -4,7 +4,7 @@ main:
   - title: "About Us"
     url: /about/
   - title: "Upcoming Events"
-    url: /categories/#upcoming-events
+    url: /categories/#upcoming-events/
   - title: "Previous Events"
     url: /categories/#previous-events/
   - title: "Gallery"
@@ -16,7 +16,7 @@ home_sidebar:
   - title: "About Us"
     url: /about/
   - title: "Upcoming Events"
-    url: /upcoming-events/
+    url: /categories/upcoming-events/
   - title: "Previous Events"
     url: /categories/previous-events/
   - title: "Gallery"
