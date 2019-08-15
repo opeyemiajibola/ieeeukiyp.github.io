@@ -1,6 +1,6 @@
 main:
-  - title: "About Us"
-    url: /about/
+  - title: "Home"
+    url: /home/
   - title: "Upcoming Events"
     url: /categories/upcoming-events/
   - title: "Previous Events"
@@ -9,8 +9,8 @@ main:
     url: /gallery/
 
 home_sidebar:
-  - title: "About Us"
-    url: /about/
+  - title: "Home"
+    url: /home/
   - title: "Upcoming Events"
     url: /categories/upcoming-events/
   - title: "Previous Events"
