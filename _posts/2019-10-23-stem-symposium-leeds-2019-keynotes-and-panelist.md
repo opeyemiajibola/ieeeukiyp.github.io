@@ -7,7 +7,7 @@ tags:
   - stem
   - Leeds
 sidebar:
-  nav: "home_sidebar"
+  nav: "stem_symp_sidebar"
 ---
 
 ## Keynote Speakers
@@ -28,7 +28,7 @@ The concepts that I will describe will include mesh-based schemes such as finite
 
 The presentation will draw upon the work of a number of recent PhD students and collaborations with colleagues across the University.
 
-**About the speaker**
+#### About the speaker
 
 Peter Jimack is Professor of Scientific Computing in the School of Computing at the University of Leeds. He has worked at Leeds since 1990, when he was initially appointed as a Lecturer in Mathematical Software. He was promoted to Associate Professor in 1997 and to Full Professor in 2003. Between 2010 and 2019 Peter served at the Dean of the Faculty of Engineering including, from 2015 to 2019, as a member of the University Executive. Prior to this he was pro-Dean for Research in the Faculty of Engineering from 2007 to 2010.
 
