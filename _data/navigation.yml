@@ -18,3 +18,15 @@ home_sidebar:
   - title: "Gallery"
     url: /gallery/
 
+stem_symp_sidebar:
+   - title: "Symposium"
+    url: "/upcoming-events/2019/10/23/stem-symposium-leeds-2019.html"
+  - title: "Keynote and Panelist"
+    url: "/upcoming-events/2019/10/23/stem-symposium-leeds-2019-keynotes-and-panelist.html"
+  - title: "Upcoming Events"
+    url: "/upcoming-events/2019/10/23/stem-symposium-leeds-2019-keynotes-and-panelist.html"
+  - title: "Previous Events"
+    url: "/upcoming-events/2019/10/23/stem-symposium-leeds-2019-keynotes-and-panelist.html"
+  - title: "Gallery"
+    url: "/upcoming-events/2019/10/23/stem-symposium-leeds-2019-keynotes-and-panelist.html"
+
