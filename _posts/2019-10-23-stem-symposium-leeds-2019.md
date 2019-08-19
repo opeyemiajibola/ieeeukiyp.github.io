@@ -7,7 +7,7 @@ tags:
   - stem
   - Leeds
 sidebar:
-  nav: "home_sidebar"
+  nav: "stem_symp_sidebar"
 ---
 
 ## Hosted by the School of Electronic and Electrical Engineering, University of Leeds
