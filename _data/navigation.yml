@@ -19,7 +19,7 @@ home_sidebar:
     url: /gallery/
 
 stem_symp_sidebar:
-   - title: "Symposium"
+  - title: "Symposium"
     url: /home/
   - title: "Keynote and Panelist"
     url: /home/
