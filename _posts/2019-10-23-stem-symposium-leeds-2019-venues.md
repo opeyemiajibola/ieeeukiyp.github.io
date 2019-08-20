@@ -8,10 +8,7 @@ tags:
   - stem
   - Leeds
 sidebar:
-    links:
-      - label: "SUBMIT YOUR ABSTRACT"
-        icon: "list"
-        url: "https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform"
+  - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}"
     nav: "stem_symp_sidebar"
 ---
 
