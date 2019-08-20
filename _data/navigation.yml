@@ -20,13 +20,13 @@ home_sidebar:
 
 stem_symp_sidebar:
   - title: "Symposium"
-    url: /home/
+    url: /2nd_stem/workshops/
   - title: "Keynote and Panelist"
-    url: /home/
-  - title: "Upcoming Events"
-    url: /home/
-  - title: "Previous Events"
-    url: /home/
-  - title: "Gallery"
-    url: /home/
+    url: /2nd_stem/keynotes/
+  - title: "Workshops"
+    url: /2nd_stem/workshops/
+  - title: "Committee"
+    url: /2nd_stem/committee/
+  - title: "Venues"
+    url: /2nd_stem/venues/
 
