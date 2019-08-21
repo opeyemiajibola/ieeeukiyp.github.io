@@ -117,24 +117,6 @@ defaults:
     values:
       sidebar:
         nav: "home_sidebar"
-  # _2nd_stem
-  - scope:
-      path: "2nd_stem/*/"
-      type:
-    values:
-      sidebar:
-        - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
-        [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
-          nav: "stem_symp_sidebar"
-  # _2nd_stem
-  - scope:
-      path: "2nd_stem"
-      type:
-    values:
-      sidebar:
-        - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
-        [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
-          nav: "stem_symp_sidebar"
 
 category_archive:
   type: liquid
