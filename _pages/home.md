@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: /
 title: "Home"
 sidebar:
   nav: "home_sidebar"
