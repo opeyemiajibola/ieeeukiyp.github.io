@@ -27,6 +27,10 @@ Professor Mike Hinchey is Chair of IEEE UK & Ireland Section for 2018-2019. He i
 ### Prof. Peter Jimack - Executive Dean, Faculty of Engineering, University of Leeds
 **EPSRC Centre for Doctoral Training (CDT) in Fluid Dynamics**
 
+<figure>
+	<img src="/assets/images/stem_leeds_2019/Pic_Peter_Jimack-278x278.jpeg" style="max-width:150px">
+</figure>
+
 #### Efficient numerical algorithms for the solution of fluid dynamics problems
 
 In this talk I will introduce a number of key concepts that allow fast and efficient computational solution of systems of partial differential equations (PDEs). Such systems are used to model a wide range of physical phenomena, such as fluid flows, phase change problems and fluid-structure interactions.
@@ -46,6 +50,10 @@ Peter is currently the Director of the EPSRC Centre for Doctoral Training in Flu
 ### Eric Hawthorn - Executive Chairman, Radio Design LTD
 **Cellular Radio – Business & Technology**
 
+<figure>
+	<img src="/assets/images/stem_leeds_2019/Pic_Eric-278x278.jpg" style="max-width:150px">
+</figure>
+
 Cellular Radio has developed dramatically over the last 30 years. In this presentation I cover my involvement in this fast paced industry, how I started Radio Design Ltd and some of the challenges that must be addressed to enable future evolution.
 
 #### About the speaker
@@ -56,6 +64,10 @@ Eric Hawthorn has been involved in mobile communications R&D and management for 
 
 ### Prof. Ian Hunter - Fellow, IET, IEEE and the U.K. Royal Academy of Engineering
 **Professor, School of Electronic and Electrical Engineering**
+
+<figure>
+	<img src="/assets/images/stem_leeds_2019/Pic_Ian-Hunter-150x150.jpg" style="max-width:150px">
+</figure>
 
 Professor Ian Hunter held the U.K. Royal Academy of Engineering/Radio Design Ltd Research Chair in Microwave Signal Processing at the School of Electronic and Electrical Engineering, University of Leeds, U.K. He is a leading pioneer of theory and design of microwave filters. Professor Hunter is a fellow of the IET, IEEE and the U.K. Royal Academy of Engineering.
 
