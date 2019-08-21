@@ -13,3 +13,8 @@ sidebar:
     nav: "stem_symp_sidebar"
 ---
 
+
+<figure class="half">
+	<img src="/assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png">
+	<img src="/assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png">
+</figure>

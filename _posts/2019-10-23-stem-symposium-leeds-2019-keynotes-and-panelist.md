@@ -18,8 +18,8 @@ sidebar:
 ### Prof. Mike Hinchey - IEEE UK & Ireland Section Chair
 **Lero - The Irish Software Research Centre**
 
-<figure class="half">
-	<img src="/assets/images/stem_leeds_2019/Pimike-hinchey-150x150.jpg">
+<figure>
+	<img src="/assets/images/stem_leeds_2019/Pimike-hinchey-150x150.jpg" style="max-width:150px">
 </figure>
 
 Professor Mike Hinchey is Chair of IEEE UK & Ireland Section for 2018-2019. He is President of IFIP, the International Federation for Information Processing (www.ifip.org) and is Emeritus Director of Lero-the Irish Software Research Centre and Professor of Software Engineering at University of Limerick, Ireland. Prior to joining Lero, Professor Hinchey was the Director of the NASA Software Engineering Laboratory. In 2009, he was awarded NASA’s Kerley Award as Innovator of the Year and is recognized in the NASA Inventors Hall of Fame. Professor Hinchey holds a B.Sc. in Computer Systems from University of Limerick, an M.Sc. in Computation from University of Oxford and a PhD in Computer Science from University of Cambridge. Professor Hinchey is a Chartered Engineer, Chartered Engineering Professional, Chartered Mathematician and Charted Information Technology Professional, as well as a Fellow of the IET, British Computer Society and Irish Computer Society. He is Editor-in-Chief of Innovations in Systems and Software Engineering: a NASA Journal and Journal of the Brazilian Computer Society. In January 2018, he became an Honorary Fellow of the Computer Society of India.
