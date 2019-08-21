@@ -119,7 +119,7 @@ defaults:
         nav: "home_sidebar"
   # _2nd_stem
   - scope:
-      path: "2nd_stem"
+      path: "2nd_stem/*/"
       type: posts
     values:
       sidebar:
