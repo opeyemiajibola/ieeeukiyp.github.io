@@ -20,7 +20,7 @@ home_sidebar:
 
 stem_symp_sidebar:
   - title: "Symposium"
-    url: /2nd_stem/workshops/
+    url: /2nd_stem/
   - title: "Keynote and Panelist"
     url: /2nd_stem/keynotes/
   - title: "Workshops"
