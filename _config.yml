@@ -119,8 +119,8 @@ defaults:
         nav: "home_sidebar"
   # _2nd_stem
   - scope:
-      path: "2nd_stem/*/*"
-      type: posts
+      path: "2nd_stem/*/"
+      type:
     values:
       sidebar:
         - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
@@ -129,7 +129,7 @@ defaults:
   # _2nd_stem
   - scope:
       path: "2nd_stem"
-      type: posts
+      type:
     values:
       sidebar:
         - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
