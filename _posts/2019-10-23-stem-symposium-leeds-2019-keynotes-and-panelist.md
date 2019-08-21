@@ -18,6 +18,10 @@ sidebar:
 ### Prof. Mike Hinchey - IEEE UK & Ireland Section Chair
 **Lero - The Irish Software Research Centre**
 
+<figure class="half">
+	<img src="/assets/images/stem_leeds_2019/Pimike-hinchey-150x150.jpg">
+</figure>
+
 Professor Mike Hinchey is Chair of IEEE UK & Ireland Section for 2018-2019. He is President of IFIP, the International Federation for Information Processing (www.ifip.org) and is Emeritus Director of Lero-the Irish Software Research Centre and Professor of Software Engineering at University of Limerick, Ireland. Prior to joining Lero, Professor Hinchey was the Director of the NASA Software Engineering Laboratory. In 2009, he was awarded NASA’s Kerley Award as Innovator of the Year and is recognized in the NASA Inventors Hall of Fame. Professor Hinchey holds a B.Sc. in Computer Systems from University of Limerick, an M.Sc. in Computation from University of Oxford and a PhD in Computer Science from University of Cambridge. Professor Hinchey is a Chartered Engineer, Chartered Engineering Professional, Chartered Mathematician and Charted Information Technology Professional, as well as a Fellow of the IET, British Computer Society and Irish Computer Society. He is Editor-in-Chief of Innovations in Systems and Software Engineering: a NASA Journal and Journal of the Brazilian Computer Society. In January 2018, he became an Honorary Fellow of the Computer Society of India.
 
 ### Prof. Peter Jimack - Executive Dean, Faculty of Engineering, University of Leeds
@@ -38,6 +42,24 @@ Peter Jimack is Professor of Scientific Computing in the School of Computing at 
 Peter’s research is on the development, analysis and application of efficient computational algorithms for the solution of partial differential equations (PDEs), with a particular focus on adaptive, multilevel and parallel algorithms and fluid dynamics applications. Much of this work is multidisciplinary, in collaboration with domain experts in fields as diverse as atmospheric chemistry, earth sciences, mechanical engineering and materials science.
 
 Peter is currently the Director of the EPSRC Centre for Doctoral Training in Fluid Dynamics at Leeds, which has been funded to recruit over 100 PhD students between 2014 and 2023 inclusive. He has personally supervised 30 successful PhD students (with whom he has co-published almost 80 papers) and currently advises 5 others. In recent years he has published papers with international collaborators in Canada, China, France, Pakistan, Saudi Arabia and USA.
+
+### Eric Hawthorn - Executive Chairman, Radio Design LTD
+**Cellular Radio – Business & Technology**
+
+Cellular Radio has developed dramatically over the last 30 years. In this presentation I cover my involvement in this fast paced industry, how I started Radio Design Ltd and some of the challenges that must be addressed to enable future evolution.
+
+#### About the speaker
+
+Eric Hawthorn has been involved in mobile communications R&D and management for over 30 years. Having graduated in 1984, with a BSc (Hons) 1st Class, in Electronic and Electrical Engineering, he has lived and worked in UK, USA and Canada for Plessey, Bell Northern Research (Nortel), M/A-Com and Filtronic. He is now Executive Chairman at Radio Design which he established in Shipley, West Yorkshire in 2007. Eric is a Chartered Engineer, a Fellow of the Royal Society of Engineering and a Fellow of the IET.
+
+## Discussion Panellists
+
+### Prof. Ian Hunter - Fellow, IET, IEEE and the U.K. Royal Academy of Engineering
+**Professor, School of Electronic and Electrical Engineering**
+
+Professor Ian Hunter held the U.K. Royal Academy of Engineering/Radio Design Ltd Research Chair in Microwave Signal Processing at the School of Electronic and Electrical Engineering, University of Leeds, U.K. He is a leading pioneer of theory and design of microwave filters. Professor Hunter is a fellow of the IET, IEEE and the U.K. Royal Academy of Engineering.
+
+**All keynotes and workshop speakers will take part in the discussion panel.**
 
 <figure class="half">
 	<img src="/assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png">
