@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   IEEE UK & Ireland (UK&I) Young Professionals is an Affinity Group for electrical, electronics, software and computer systems engineers that have graduated in the last decade. IEEE UK&I YP a professional network that assists with transitioning from university into the professional world.
 minimal_mistakes_skin: contrast
 search: true
+future: true
 locale: "en-GB"
 logo: "/assets/images/logo.png"
 
