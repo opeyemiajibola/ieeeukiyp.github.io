@@ -1,8 +1,15 @@
 ---
+title: "IEEE UK & Ireland (UK&I) Young Professionals"
+layout: splash
 permalink: /
-title: "Home"
-sidebar:
-  nav: "home_sidebar"
+date: 2019-08-21T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/home_baner.jpg
+  caption: "Photo credit: [**Pexels**](https://www.pexels.com)"
+intro: 
+  - excerpt: 'IEEE UK & Ireland (UK&I) Young Professionals is an Affinity Group for electrical, electronics, software and computer systems engineers that have graduated in the last decade. IEEE UK&I YP a professional network that assists with transitioning from university into the professional world.'
 ---
 
 ## Welcome Young Professionals!
