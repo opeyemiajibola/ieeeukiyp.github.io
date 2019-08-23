@@ -65,14 +65,22 @@ sidebar:
 ### Nikollao Sulollari
 **PhD student, School of Electronic and Electrical Engineering**
 
-### Moises Jezzini - Tyndall National Institute
+<figure>
+	<img src="/assets/images/stem_leeds_2019/M Jezzini 2.jpg" style="max-width:150px">
+</figure>
+
+### Dr Moises Jezzini - Tyndall National Institute
 **Post-doctoral researcher, Photonics packaging group**
 
 ### Mansourah Aljohani - University of Leeds
 **PhD student, School of Electronic and Electrical Engineering**
 
-### Mortaza Doulaty - University of Leeds
-**PhD student, School of Electronic and Electrical Engineering**
+<figure>
+	<img src="/assets/images/stem_leeds_2019/Pic_Morrie.jpeg" style="max-width:150px">
+</figure>
+
+### Mortaza Doulaty - Microsoft
+**Applied Scientist**
 
 <figure>
 	<img src="/assets/images/stem_leeds_2019/Pic_Aubida.png" style="max-width:150px">
