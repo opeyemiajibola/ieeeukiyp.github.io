@@ -71,6 +71,18 @@ Eric Hawthorn has been involved in mobile communications R&D and management for 
 
 Professor Ian Hunter held the U.K. Royal Academy of Engineering/Radio Design Ltd Research Chair in Microwave Signal Processing at the School of Electronic and Electrical Engineering, University of Leeds, U.K. He is a leading pioneer of theory and design of microwave filters. Professor Hunter is a fellow of the IET, IEEE and the U.K. Royal Academy of Engineering.
 
+### Dr Sarah Fores - Associate Faculty, LUBS and Manager of EURO - The Association of European Operation Research Societies
+
+<figure>
+	<img src="/assets/images/stem_leeds_2019/Sarah_2017.JPG" style="max-width:150px">
+</figure>
+
+Sarah Fores was awarded her PhD in Operational Research in the School of Computing, University of Leeds in 1996. She then worked in the School of Computing until 2012. Sarah's research focused on combinatorial optimisation problems and she contributed to a major piece of optimisation software which is in use in a number of bus companies worldwide. Her knowledge also led to a period of consultancy work with a commercial transport company developing software for bus companies. 
+
+Sarah's teaching mainly focused on discrete optimisation and theoretical computer science. She was the departmental Senior Undergraduate Admissions Tutor for 10 years, responsible for all aspects of student recruitment. She was also the departmental Examinations Officer, responsible for ensuring that University Codes of Practice were adhered to for teaching and assessment. She has acted as the project manager on a successful major grant involving Leeds University, Rolls Royce, and Cybula. She has also contributed to the curriculum design of a joint teaching venture between Southwest Jiaotong University and the Faculty of Engineering. 
+
+Currently Sarah is a self-employed consultant undertaking administrative duties as the Manager of EURO – The Association of European Operational Research Societies. She contributes to the organising and programme committees for the major conferences run by EURO which attract over 2000 people but she also helps to facilitate a number of smaller workshops and meetings dedicated to PhD students and people new to the field of Operational Research. Locally she has acted as a STEM Ambassador, presenting talks to local schools on the value of STEM subjects. Sarah has more recently worked in Leeds University Business School as a dissertation supervisor and support lecturer for students on the MSc Business Analytics and Decision Sciences degree programme. 
+
 **All keynotes and workshop speakers will take part in the discussion panel.**
 
 <figure class="half">
