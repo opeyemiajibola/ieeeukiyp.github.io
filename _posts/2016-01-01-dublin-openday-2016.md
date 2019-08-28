@@ -8,6 +8,31 @@ tags:
   - Dublin
 sidebar:
   nav: "home_sidebar"
+sponsors_gallery:
+  - url: http://www.awe.co.uk/
+    image_path: /assets/images/opd_16/sp1.jpg
+    alt: "AWE"
+    title: "Gold sponsor"
+  - url: https://digitalgarage.withgoogle.com/
+    image_path: /assets/images/opd_16/sp2.jpg
+    alt: "The digital garage"
+    title: "Our supporting partner"
+  - url: http://www.ieee-ukandireland.org/
+    image_path: /assets/images/opd_16/sp3.jpg
+    alt: "IEEE UK and Ireland"
+    title: "Our supporting partner"
+  - url: http://www.ieee-ukandireland.org/
+    image_path: /assets/images/opd_16/sp4.jpg
+    alt: "IBM"
+    title: "Our supporting partner"
+  - url: http://www.joinef.com/
+    image_path: /assets/images/opd_16/sp5.jpg
+    alt: "ef"
+    title: "Our supporting partner"
+  - url: https://www.gre.ac.uk
+    image_path: /assets/images/opd_16/sp6.jpg
+    alt: "University of Greenwich"
+    title: "Our supporting partner"
 ---
 {% include video id="H5PG6Z3XfY8" provider="youtube" %}
 
@@ -40,3 +65,36 @@ Sponsorship of the IEEE Young Entrepreneurs Open Day will provide your organizat
 We offer a number of partnership, sponsorship and exhibition opportunities. All of our packages are tailored to meet the requirements of your organisation, and we work with our sponsors on a bespoke basis to ensure you receive maximum benefit. If you wish to be a part of this event, please refer to the sponsorship prospectus via the link below and feel free to contact us to discuss your needs.
 
 The event is kindly supported by our industrial sponsors, exhibitors and supporting partners, who will be glad to meet you at their stalls, located at the circulation area outside the ‘Royal George’ lecture theatre.
+
+[SPONSORSHIP PROSPECTUS](https://drive.google.com/open?id=0BzVmvSy2LTXyVkhBclFsR0lhUms){: .btn .btn--success}
+
+{% include gallery id="sponsors_gallery" caption="" %}
+
+# Venue
+
+Greenwich is an early-established district of London, which is notable for its maritime history and for giving its name to the Greenwich Meridian (0° longitude) and Greenwich Mean Time. The town became the site of a royal palace, the Palace of Placentia from the 15th century, and was the birthplace of many Tudors, including Henry VIII and Elizabeth I.
+
+**University of Greenwich Address:**
+
+Old Royal Naval College, Park Row, London SE10 9LS
+
+[HOW TO GET THERE](http://www2.gre.ac.uk/about/travel/greenwich){: .btn .btn--success}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4969.300811695546!2d-0.006995000000000001!3d51.482931!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa66a5fccf89e51c4!2sUniversity%20of%20Greenwich%2C%20London!5e0!3m2!1sen!2sus!4v1567017611942!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+# Contact us
+
+**Prof A G Hessami**<br>
+IEEE Young Entrepreneurs Open Day Chair<br>
+IEEE UK& Ireland Section Chair<br>
+Email: Hessami@vegaglobalsystems.com<br>
+
+**Noel Gomes**<br>
+IEEE Young Entrepreneurs Open Day Organising Committee<br>
+IEEE UK& Ireland Young Professionals Chair<br>
+Email: noelgomes@ieee.org<br>
+
+**Veronika Nesheva**<br>
+IEEE Young Entrepreneurs Open Day Organising Committee<br>
+IEEE UK& Ireland Student Activities Chair<br>
+Email: veronikanesheva@gmail.com<br>
