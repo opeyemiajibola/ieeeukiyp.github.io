@@ -79,7 +79,7 @@ sidebar:
 	<img src="/assets/images/stem_leeds_2019/Pic_Morrie.jpeg" style="max-width:150px">
 </figure>
 
-### Mortaza Doulaty - Microsoft
+### Dr Mortaza Doulaty - Microsoft
 **Applied Scientist**
 
 <figure>
