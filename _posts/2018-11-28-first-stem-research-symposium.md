@@ -95,12 +95,16 @@ possibilities of turning research to enterprise. The symposium was open
 to professionals and students and accepted submissions of posters,
 papers and research to enterprise pitches.
 
+{% include video id="7uQ2C0_H8d8" provider="youtube" %}
+
 The inaugural symposium was organised by the IEEE UK & Ireland Young
 Professionals and hosted by the Department of Computer Science,
 University of Chester. During the day, the attendees (both IEEE and
 non-IEEE members) participated in interactive workshops, paper & poster
 presentations and an open-panel discussion. It was a great networking
 opportunity for participants and young professionals.
+
+{% include video id="IpwV_UNs9BE" provider="youtube" %}
 
 The morning session of the event began with a talk on how researchers
 are applying digital technologies to revive the history of Chester.
@@ -207,18 +211,10 @@ staff. We would like to thank everyone who supported the event.
 
 Full event details: [Here](/assets/1st_stem/)<br>
 Event photos: <https://bit.ly/2IP23Xk><br>
-Promotion video:<br>
-{% include video id="319918764/033f17387f" provider="vimeo" %}
-<https://vimeo.com/319918764/033f17387f><br>
-Panel discussion video:<br>
-{% include video id="311409373/7da9762816" provider="vimeo" %}
-<https://vimeo.com/311409373/7da9762816><br>
-Keynote video: <br>
-{% include video id="311408289/d88cc6db55" provider="vimeo" %}
-<https://vimeo.com/311408289/d88cc6db55><br>
-Interviews:<br>
-{% include video id="320782640/a3402dcbbf" provider="vimeo" %}
-<https://vimeo.com/320782640/a3402dcbbf><br>
+Promotion video: <https://vimeo.com/319918764/033f17387f><br>
+Panel discussion video: <https://vimeo.com/311409373/7da9762816><br>
+Keynote video: <https://vimeo.com/311408289/d88cc6db55><br>
+Interviews: <https://vimeo.com/320782640/a3402dcbbf><br>
 
 Report prepared by:
 
