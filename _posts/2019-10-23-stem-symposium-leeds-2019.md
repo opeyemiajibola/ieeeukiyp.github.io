@@ -20,6 +20,10 @@ sidebar:
 	<img src="/assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png">
 </figure>
 
+{% include video id="7uQ2C0_H8d8" provider="youtube" %}
+
+{% include video id="IpwV_UNs9BE" provider="youtube" %}
+
 IEEE UK & Ireland Young Professionals and the University of Leeds IEEE Student Branch cordially invite you to the 2nd postgraduate research STEM symposium.
 
 This **FREE ONE DAY** symposium is an opportunity for early career STEM researchers, especially PGRs (PhD and MPhil), to present their research, receive feedback, and explore the possibilities of turning research to enterprise.

@@ -95,16 +95,12 @@ possibilities of turning research to enterprise. The symposium was open
 to professionals and students and accepted submissions of posters,
 papers and research to enterprise pitches.
 
-{% include video id="7uQ2C0_H8d8" provider="youtube" %}
-
 The inaugural symposium was organised by the IEEE UK & Ireland Young
 Professionals and hosted by the Department of Computer Science,
 University of Chester. During the day, the attendees (both IEEE and
 non-IEEE members) participated in interactive workshops, paper & poster
 presentations and an open-panel discussion. It was a great networking
 opportunity for participants and young professionals.
-
-{% include video id="IpwV_UNs9BE" provider="youtube" %}
 
 The morning session of the event began with a talk on how researchers
 are applying digital technologies to revive the history of Chester.
