@@ -125,7 +125,7 @@ _\"Few startups succeed, and fewer ever turn a profit\" - Neal_-
 Once the speakers were done, the audience got a chance to mingle with
 each other and get 1-on-1s with the speakers.
 
-[![](https://4.bp.blogspot.com/-rgUyxlLbJts/WdexOGXOCuI/AAAAAAAA61A/ku4REaRzDaUgPAetZlRqdhRw6K8sD86JwCKgBGAs/s400/IMG_20170911_194333.jpg)](https://4.bp.blogspot.com/-rgUyxlLbJts/WdexOGXOCuI/AAAAAAAA61A/ku4REaRzDaUgPAetZlRqdhRw6K8sD86JwCKgBGAs/s1600/IMG_20170911_194333.jpg)
+[![](https://4.bp.blogspot.com/-rgUyxlLbJts/WdexOGXOCuI/AAAAAAAA61A/ku4REaRzDaUgPAetZlRqdhRw6K8sD86JwCKgBGAs/s400/IMG_20170911_194333.jpg)](https://4.bp.blogspot.com/-rgUyxlLbJts/WdexOGXOCuI/AAAAAAAA61A/ku4REaRzDaUgPAetZlRqdhRw6K8sD86JwCKgBGAs/s1600/IMG_20170911_194333.jpg)<br>
 _Neal and Patricia comparing notes!_
 
 [![](https://1.bp.blogspot.com/-vxe57EJT4XU/Wdez0bolOGI/AAAAAAAA61Y/6HPF9BSgkOAR9ZQv0oyUvtiPS18GvEM3gCKgBGAs/s400/IMG_20170911_213345.jpg)](https://1.bp.blogspot.com/-vxe57EJT4XU/Wdez0bolOGI/AAAAAAAA61Y/6HPF9BSgkOAR9ZQv0oyUvtiPS18GvEM3gCKgBGAs/s1600/IMG_20170911_213345.jpg)<br>
