@@ -1,5 +1,5 @@
 ---
-title: "2nd IEEE UK & Ireland YP Postgraduate STEM Research Symposium - Committee"
+title: "2<sup>nd</sup> IEEE UK&I YP Postgrad STEM Research Symposium - Committee"
 date: 2019-10-23T23:34:30+01:00
 permalink: /2nd_stem/committee/
 categories:
@@ -12,6 +12,8 @@ sidebar:
   [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
     nav: "stem_symp_sidebar"
 ---
+
+Wednesday, 23<sup>rd</sup> October 2019
 
 <figure>
 	<img src="/assets/images/stem_leeds_2019/Pic_thaddeus.jpg" style="max-width:150px">

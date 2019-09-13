@@ -1,5 +1,5 @@
 ---
-title: "2nd IEEE UK & Ireland YP Postgraduate STEM Research Symposium"
+title: "2<sup>nd</sup> IEEE UK&I YP Postgrad STEM Research Symposium"
 date: 2019-10-23T23:34:30+01:00
 permalink: /2nd_stem/
 categories:
@@ -13,6 +13,8 @@ sidebar:
     nav: "stem_symp_sidebar"
 ---
 
+Wednesday, 23<sup>rd</sup> October 2019
+
 ## Hosted by the School of Electronic and Electrical Engineering, University of Leeds
 
 <figure class="half">
@@ -25,6 +27,7 @@ IEEE UK & Ireland Young Professionals and the University of Leeds IEEE Student B
 This **FREE ONE DAY** symposium is an opportunity for early career STEM researchers, especially PGRs (PhD and MPhil), to present their research, receive feedback, and explore the possibilities of turning research to enterprise.
 
 {% include video id="7uQ2C0_H8d8" provider="youtube" %}
+_The first symposium held at the University of Chester in 2018_
 
 The symposium is open to research professionals and students across the country and beyond and we are now accepting submissions of abstracts of research work for oral/poster presentation. ONLY abstract submission is required for the oral presentation. Poster presenters will be required to print and come along with their posters. **The deadline for abstract submissions is 23rd September 2019 and free registration is OPEN UNTIL 6th October 2019.**
 
@@ -33,10 +36,11 @@ The symposium is open to research professionals and students across the country 
 [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}
 
 {% include video id="IpwV_UNs9BE" provider="youtube" %}
+_What participants said about the first symposium_
 
 ## Symposium Features
 
-The event focuses on research, enterprise and knowledge transfer and will comprise of keynote talks, presentations (of submitted abstracts), panel discussion, workshops, awards and a networking dinner.
+The event focuses on research, enterprise and knowledge transfer and will comprise of keynote talks, presentations (of submitted abstracts), panel discussion, workshops, awards and a networking dinner. Take a look to our [flyer](https://drive.google.com/file/d/1ZiIifMYh5EZIB_OAmAr0t4ZukRlbqy59/view).
 
 **Keynotes**: Learn from notable experts and entrepreneurs as they deliver [keynote](/2nd_stem/keynotes/)  talks on various business related STEM topics.
 

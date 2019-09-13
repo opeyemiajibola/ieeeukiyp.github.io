@@ -1,5 +1,5 @@
 ---
-title: "2nd IEEE UK & Ireland YP Postgraduate STEM Research Symposium - Keynotes and panelist"
+title: "2<sup>nd</sup> IEEE UK&I YP Postgrad STEM Research Symposium - Keynotes and panelist"
 date: 2019-10-23T23:34:30+01:00
 permalink: /2nd_stem/keynotes/
 categories:
@@ -12,6 +12,8 @@ sidebar:
   [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
     nav: "stem_symp_sidebar"
 ---
+
+Wednesday, 23<sup>rd</sup> October 2019
 
 ## Keynote Speakers
 
