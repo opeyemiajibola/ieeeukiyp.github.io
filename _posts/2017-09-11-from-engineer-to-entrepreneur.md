@@ -7,31 +7,6 @@ tags:
   - Dublin
 sidebar:
   nav: "home_sidebar"
-sponsors_gallery:
-  - url: http://www.awe.co.uk/
-    image_path: /assets/images/opd_16/sp1.jpg
-    alt: "AWE"
-    title: "Gold sponsor"
-  - url: https://digitalgarage.withgoogle.com/
-    image_path: /assets/images/opd_16/sp2.jpg
-    alt: "The digital garage"
-    title: "Our supporting partner"
-  - url: http://www.ieee-ukandireland.org/
-    image_path: /assets/images/opd_16/sp3.jpg
-    alt: "IEEE UK and Ireland"
-    title: "Our supporting partner"
-  - url: http://www.ieee-ukandireland.org/
-    image_path: /assets/images/opd_16/sp4.jpg
-    alt: "IBM"
-    title: "Our supporting partner"
-  - url: http://www.joinef.com/
-    image_path: /assets/images/opd_16/sp5.jpg
-    alt: "ef"
-    title: "Our supporting partner"
-  - url: https://www.gre.ac.uk
-    image_path: /assets/images/opd_16/sp6.jpg
-    alt: "University of Greenwich"
-    title: "Our supporting partner"
 ---
 by Koushik Kumar Nundy
 
@@ -40,7 +15,7 @@ was organised by the Dublin chapter of **Founder Institute** and the UK
 and Ireland chapter of **IEEE Young Professionals**. The event was
 kindly hosted by Google at their [European HQ in
 Dublin](https://maps.google.com/?q=4+Barrow+Street,+Dublin,+Ireland&entry=gmail&source=g). I was fortunate enough to accompany Matthew Ellis on behalf of IEEE YP
-UK&I.
+UK&I. Here is the [flyer](\assets\eng_to_ent\FIandIEEEflyer.pdf) of the event.
 
 [![](https://1.bp.blogspot.com/-884CN_Lfu2w/WdexOE6D0mI/AAAAAAAA61A/pbK65rXkOtodCffdxMI3FsV3var0m8tBwCKgBGAs/s400/IMG_20170911_194301.jpg)](https://1.bp.blogspot.com/-884CN_Lfu2w/WdexOE6D0mI/AAAAAAAA61A/pbK65rXkOtodCffdxMI3FsV3var0m8tBwCKgBGAs/s1600/IMG_20170911_194301.jpg)<br>
 _The wonderful audience_
