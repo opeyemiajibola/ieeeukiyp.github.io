@@ -13,7 +13,7 @@ sidebar:
     nav: "stem_symp_sidebar"
 ---
 
-Wednesday, 25<sup>th</sup> September 2019
+Wednesday, 23<sup>rd</sup> October 2019
 
 ## Schedule
 
