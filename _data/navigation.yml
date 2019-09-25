@@ -29,4 +29,6 @@ stem_symp_sidebar:
     url: /2nd_stem/committee/
   - title: "Venues"
     url: /2nd_stem/venues/
+  - title: "Schedule"
+    url: /2nd_stem/schedule/
 
