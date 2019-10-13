@@ -7,6 +7,8 @@ main:
     url: /categories/previous-events/
   - title: "Gallery"
     url: /gallery/
+  - title: "About us"
+    url: /about/
 
 home_sidebar:
   - title: "Home"
