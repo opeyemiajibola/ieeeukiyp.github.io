@@ -11,7 +11,11 @@ sidebar:
   - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
   [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
     nav: "stem_symp_sidebar"
+toc: true
 ---
+
+## Schedule table
+
 <table>
 <tbody>
 <tr class="odd">
@@ -112,16 +116,12 @@ sidebar:
 </tbody>
 </table>
 
-**Oral Presentation Group Schedule**
-
-*Full details of each oral presentation group*
-
 Speakers should be prepared to make an 8-minute presentation with 2
 minutes allocated for questions (10 minutes total).
 
-**Group 1**
+---
 
-***Liberty Building LG.06***
+## Group 1 - Liberty Building LG.06
 
 Chaired by Dr Mustafa Bakr
 
@@ -168,10 +168,200 @@ Chaired by Dr Mustafa Bakr
 </tbody>
 </table>
 
-**Group 2**
+### Oluseyi Temitope Okeowo - University of Salford
 
-***School of Electronic & Electrical Engineering- Rhodes Lecture
-Theatre***
+**Autonomous navigation of a mobile robot using a Histogram filter**
+The model presented in this work illustrates the performance of a
+probabilistic filtering algorithm for the autonomous navigation of a
+mobile robot in a structured environment. We selected a grid-based
+application of Bayes’ filter, the histogram filter, for the study. A
+mobile robot needs to understand its present location, where the goal
+is, and how it can reach the goal to achieve autonomous navigation. The
+problem of localization comes first, followed by path planning and
+navigation. Our model uses a histogram filter to localize the robot in a
+closed environment, and later perform path planning through dynamic
+programming to navigate to a target location. The histogram filter
+discretizes the robot’s world into a grid-world setting and assigns a
+probability value to each cell. We preferred the odometry motion model
+to the velocity motion model in calculating the robot’s motion over
+time. Though both models suffer from drift, odometry model is generally
+more accurate. We selected a Pioneer 3DX mobile robot as the test bed
+owing to its robustness in performing autonomous navigation tasks. The
+results of the experiment presented in this paper using MobileSim and
+the real robot validates the accuracy of the proposed model.
+
+### Valentina Casadei - University of Liverpool
+
+**EEG signal processing with a smart model-based tting: a comparison with traditional methods**
+Electroencephalography is a safe recording of brain activity, used in
+clinical and non-clinical purposes. Extracting meaningful information
+from EEG poses significant challenges for digital processing due to
+non-stationary behaviour and a very small Signal-to-Noise Ratio. Such
+challenges have become particularly important with wearable EEGs, used
+without clinical supervision. They are more sensitive to noises and are
+generally less accurate than clinical devices. A quantitative evaluation
+of the measurement uncertainty is essential to understand the
+acquisition reliability. A good signal processing must achieve two
+objectives: 1) work without changing the original shape and information
+of the raw signals avoiding the risk of a wrong interpretation; 2)
+continuously and automatically assess the uncertainty of any quantity
+estimated from the signals. Some benefits are a decreased risk of wrong
+classification and an improvement for feature selection and extraction,
+especially for a dynamic system. This can be achieved by using available
+'a priori' knowledge about signals (frequency band and dynamics of
+amplitude and phase modulations) to implement a model-based fitting
+process able to follow the time evolution of specific brain waves,
+estimating its uncertainty and reliability simultaneously. This model
+works as automatic smart filtering, with better performance than common
+signal processing methods in the time domain (band-pass filtering) or
+frequency domain (Fourier Transform).
+
+### Francois S. Hallac - University of Leeds
+
+**The breakage of elongated particles for agitated drying conditions in the pharmaceutical industry**
+Crystal breakage is an issue of great concern to the pharmaceutical
+industry. Conservation of the desired Particle Size Distribution (PSD)
+throughout downstream processing is extremely important, as PSD changes
+are known to affect properties such as bulk density, solubility and
+flowability. Active pharmaceutical ingredients are in majority organic
+and their crystal shape of high aspect ratio; their main breakage
+mechanism is fragmentation by bending. To elucidate the fracture
+phenomenon of elongated particles in agitated drying, the bending stress
+of individual crystals needs to be determined within a bed of particles.
+In this study, a shear cell is built in Discrete Element Method and
+mimics the stress experienced by particles in dryers using moving
+parallel plates and periodic boundaries. Elongated rigid particles are
+modelled with clumped spheres and experience stress due to the shear
+application in the box. The bending stress of individual particles is
+calculated during the simulation and a bending stress distribution is
+obtained for the given stress condition (normal and shear). The bending
+stress distribution is combined with the experimental breakage strength
+distribution of Beta-Glutamic Acid crystals, allowing the estimation of
+the extent of breakage within the particle bed during the shearing
+phase. The extent of breakage is found to increase exponentially with
+the hydrostatic pressure for agitated drying conditions in the
+pharmaceutical industry.
+
+### Carla Taylor-Rutterford - University of Lincoln
+
+**Tele-Sex: Opportunities, Challenges, and Implications**
+There is growing interest in utilising IoT and haptic technology for
+intimate communication. Specifically, where two devices are networked
+with sensors and effectors which enable intimate interaction and
+communication. This has flourished since the expiration of the patent
+for the \`\`method and device for interactive virtual control of sexual
+aids using digital computer networks'' (U.S. Patent No. 6,368,268.),
+otherwise known as the teledildonics patent. However, this application
+is rife with privacy, security, and ethical challenges, which are
+confounded by a general lack of research in this specific domain. This
+review provides a map of the current research engagement and identifies
+and illustrates some of the potential risks (with some historical
+context), and an exploration of the future implications of this
+technology. The range of possible benefits and drawbacks in regard to
+this technology are varied, highlighting the need for transdisciplinary
+engagement. We conclude with a number of insights, and a call to arms
+for further research.
+
+### Nishal Chandarana - University of Sheffield
+
+**Decarbonisation of heat: a heat pump load shifting model**
+The UK has now committed to reducing greenhouse gas emissions to net
+zero by 2050. To do so requires significant progress to be made in the
+heating sector, which accounts for a quarter of overall emissions. Heat
+demands are highly variable, reaching huge peaks during and hourly ramp
+rates during winter. The natural gas network can currently cope with
+this variability, but a range of solutions will be required to
+transition to a low carbon system. Electrification of heating, using
+heat pumps, is one attractive option due to the significant progress in
+decarbonising electricity generation. Concerns remain, however, over
+impacts that widespread uptake could have on peak electricity demands,
+particularly on the distribution network level. In this study the
+operation of a heat pump and thermal storage system has been optimised
+to minimise costs using a variable electricity tariff that discourages
+peak electricity usage. The potential peak demand reduction has been
+quantified and a comparison has been made between the building material
+and thermal storage unit in shifting usage. Results indicate that
+building thermal mass and therefore heat pump scheduling plays a
+significant role in shifting electrical load to off peak times.
+
+### Ali K Abed - University of Bradford
+
+**Development of improved second-generation of the Automated Solar Activity Prediction system (ASAP)**
+In recent years, there has been a growing interest in real-time
+processing of solar data, especially for space weather applications.
+Solar flare prediction has become a forefront topic because extreme
+solar eruptions could affect our daily life activities. Therefore, the
+main goal of this paper is to develop a new prediction algorithm based
+on the Automated Solar Activity Prediction system (ASAP) system. The
+proposed algorithm updates the ASAP system by extending the training
+process and optimizing the learning rules to create better optimization
+for the performance. Two neural networks are used in the proposed
+system. The first neural network is used to predict whether a certain
+sunspot class at a certain time is likely to produce a significant flare
+or not. The second neural network is used to predict the type of this
+flare, X or M-class. Some measurement criteria are applied to determine
+the extent of system performance and all results are provided in this
+paper. The results exhibit that the proposed algorithm outperforms the
+old ASAP system.
+
+### Ahmed Fakhri - Teesside University
+
+**Techno-Economic Analysis of Li-ion Batteries in the Capacity Market with Different Degradation Models**
+Increased deployment of intermittent renewable energy plants raises
+concerns about energy security. Capacity markets (CM) have been
+implemented to secure energy generation and provide energy affordability
+for customers. This paper contributes to answering the question of
+whether batteries can provide cost effective back up services in this
+market. It improves on earlier research in the field by considering
+battery degradation and capacity market de-rating factors. To provide a
+comprehensive techno-economic analysis, three lithium ion battery
+degradation models with different complexity were utilised. The results
+demonstrated that degradation cost can significantly impact the
+potential profit from each battery and the battery with the 1h de-rating
+factor shows the highest revenue within the current CM regulations. The
+empirical degradation model is simple but overestimate the capacity loss
+especially in the first cycles. Keeping the temperature at 5ºC and at
+low SoC (20%) offers the highest profit. In contrast, the semi-empirical
+model shows that the degradation cost is maximum at 5ºC and minimal at
+25ºC with SoC (20%). The physics model offers a deeper understanding for
+the complex degradation mechanisms inside the battery and it shows that
+minimum degradation is at 5ºC in storing condition. While CM rules
+require batteries to remain ready to respond at system stress events,
+the results suggest that large losses are anticipated if batteries are
+kept at 100% state of charge.
+
+### Conor Dorrian - Letterkenny Institute of Technology (LYIT)
+
+**Can event-driven micro-services be ameliorated through performance feedback from performance data?**
+When an event-driven micro-service is created there is often less
+emphasis into performance testing or monitoring it as testing isn’t
+straightforward and proves to be very time consuming. This may result in
+errors and difficulties later in the lifecycle of the event-driven
+microservice as it scales. Performance testing should be a necessity
+when developing a microservice, but unfortunately it does not often
+happen unless a serious complication arises further in the event-driven
+lifecycle, this will take up more time, energy and cost than doing it at
+the start of the deployment lifecycle. Each service in a microservice
+may have its own dependencies, some direct, others transitive and each
+service could connect to its one or more databases such as Mongodb and
+MySQL. Establishing a valid record of these dependencies for each
+service is difficult to maintain, requiring a dedicated team to monitor
+each service inside the microservice. Whether it’s database errors,
+network latency, caching issues, or service unavailability, event-driven
+microservices should be able to handle a reasonable level of faults.
+Performance testing highlights defects and performance issues in the
+event-driven microservice early and ultimately will help curb these
+issues before going into a production environment. The aim of this paper
+is to inform development teams and DevOps engineers about managing their
+performance testing within microservices. Using specific tools to test
+different aspects of performance testing such as Load testing and
+resilience testing will ultimately create a more fault tolerant
+microservices from the evidence collected through the means of
+performance testing to create a tangible and adaptable framework.
+
+---
+
+## Group 2 - School of Electronic & Electrical Engineering- Rhodes Lecture Theatre
 
 Chaired by Dr Thaddeus Eze
 
@@ -206,246 +396,10 @@ Chaired by Dr Thaddeus Eze
 </tbody>
 </table>
 
-**Group 1**
-
-*Speakers in the morning paper presentation session*
-
-This session will be chaired by Dr Mustafa Bakr
-
-**Oluseyi Temitope Okeowo**
-
-University of Salford
-
-**Autonomous navigation of a mobile robot using a Histogram filter**
-
-The model presented in this work illustrates the performance of a
-probabilistic filtering algorithm for the autonomous navigation of a
-mobile robot in a structured environment. We selected a grid-based
-application of Bayes’ filter, the histogram filter, for the study. A
-mobile robot needs to understand its present location, where the goal
-is, and how it can reach the goal to achieve autonomous navigation. The
-problem of localization comes first, followed by path planning and
-navigation. Our model uses a histogram filter to localize the robot in a
-closed environment, and later perform path planning through dynamic
-programming to navigate to a target location. The histogram filter
-discretizes the robot’s world into a grid-world setting and assigns a
-probability value to each cell. We preferred the odometry motion model
-to the velocity motion model in calculating the robot’s motion over
-time. Though both models suffer from drift, odometry model is generally
-more accurate. We selected a Pioneer 3DX mobile robot as the test bed
-owing to its robustness in performing autonomous navigation tasks. The
-results of the experiment presented in this paper using MobileSim and
-the real robot validates the accuracy of the proposed model.
-
-**Valentina Casadei**
-
-University of Liverpool
-
-**EEG signal processing with a smart model-based tting: a comparison
-with traditional methods**
-
-Electroencephalography is a safe recording of brain activity, used in
-clinical and non-clinical purposes. Extracting meaningful information
-from EEG poses significant challenges for digital processing due to
-non-stationary behaviour and a very small Signal-to-Noise Ratio. Such
-challenges have become particularly important with wearable EEGs, used
-without clinical supervision. They are more sensitive to noises and are
-generally less accurate than clinical devices. A quantitative evaluation
-of the measurement uncertainty is essential to understand the
-acquisition reliability. A good signal processing must achieve two
-objectives: 1) work without changing the original shape and information
-of the raw signals avoiding the risk of a wrong interpretation; 2)
-continuously and automatically assess the uncertainty of any quantity
-estimated from the signals. Some benefits are a decreased risk of wrong
-classification and an improvement for feature selection and extraction,
-especially for a dynamic system. This can be achieved by using available
-'a priori' knowledge about signals (frequency band and dynamics of
-amplitude and phase modulations) to implement a model-based fitting
-process able to follow the time evolution of specific brain waves,
-estimating its uncertainty and reliability simultaneously. This model
-works as automatic smart filtering, with better performance than common
-signal processing methods in the time domain (band-pass filtering) or
-frequency domain (Fourier Transform).
-
-**Francois S. Hallac**
-
-University of Leeds
-
-**The breakage of elongated particles for agitated drying conditions in
-the pharmaceutical industry**
-
-Crystal breakage is an issue of great concern to the pharmaceutical
-industry. Conservation of the desired Particle Size Distribution (PSD)
-throughout downstream processing is extremely important, as PSD changes
-are known to affect properties such as bulk density, solubility and
-flowability. Active pharmaceutical ingredients are in majority organic
-and their crystal shape of high aspect ratio; their main breakage
-mechanism is fragmentation by bending. To elucidate the fracture
-phenomenon of elongated particles in agitated drying, the bending stress
-of individual crystals needs to be determined within a bed of particles.
-In this study, a shear cell is built in Discrete Element Method and
-mimics the stress experienced by particles in dryers using moving
-parallel plates and periodic boundaries. Elongated rigid particles are
-modelled with clumped spheres and experience stress due to the shear
-application in the box. The bending stress of individual particles is
-calculated during the simulation and a bending stress distribution is
-obtained for the given stress condition (normal and shear). The bending
-stress distribution is combined with the experimental breakage strength
-distribution of Beta-Glutamic Acid crystals, allowing the estimation of
-the extent of breakage within the particle bed during the shearing
-phase. The extent of breakage is found to increase exponentially with
-the hydrostatic pressure for agitated drying conditions in the
-pharmaceutical industry.
-
-**Carla Taylor-Rutterford**
-
-University of Lincoln
-
-**Tele-Sex: Opportunities, Challenges, and Implications**
-
-There is growing interest in utilising IoT and haptic technology for
-intimate communication. Specifically, where two devices are networked
-with sensors and effectors which enable intimate interaction and
-communication. This has flourished since the expiration of the patent
-for the \`\`method and device for interactive virtual control of sexual
-aids using digital computer networks'' (U.S. Patent No. 6,368,268.),
-otherwise known as the teledildonics patent. However, this application
-is rife with privacy, security, and ethical challenges, which are
-confounded by a general lack of research in this specific domain. This
-review provides a map of the current research engagement and identifies
-and illustrates some of the potential risks (with some historical
-context), and an exploration of the future implications of this
-technology. The range of possible benefits and drawbacks in regard to
-this technology are varied, highlighting the need for transdisciplinary
-engagement. We conclude with a number of insights, and a call to arms
-for further research.
-
-**Nishal Chandarana**
-
-University of Sheffield
-
-**Decarbonisation of heat: a heat pump load shifting model**
-
-The UK has now committed to reducing greenhouse gas emissions to net
-zero by 2050. To do so requires significant progress to be made in the
-heating sector, which accounts for a quarter of overall emissions. Heat
-demands are highly variable, reaching huge peaks during and hourly ramp
-rates during winter. The natural gas network can currently cope with
-this variability, but a range of solutions will be required to
-transition to a low carbon system. Electrification of heating, using
-heat pumps, is one attractive option due to the significant progress in
-decarbonising electricity generation. Concerns remain, however, over
-impacts that widespread uptake could have on peak electricity demands,
-particularly on the distribution network level. In this study the
-operation of a heat pump and thermal storage system has been optimised
-to minimise costs using a variable electricity tariff that discourages
-peak electricity usage. The potential peak demand reduction has been
-quantified and a comparison has been made between the building material
-and thermal storage unit in shifting usage. Results indicate that
-building thermal mass and therefore heat pump scheduling plays a
-significant role in shifting electrical load to off peak times.
-
-**Ali K Abed**
-
-University of Bradford
-
-**Development of improved second-generation of the Automated Solar
-Activity Prediction system (ASAP)**
-
-In recent years, there has been a growing interest in real-time
-processing of solar data, especially for space weather applications.
-Solar flare prediction has become a forefront topic because extreme
-solar eruptions could affect our daily life activities. Therefore, the
-main goal of this paper is to develop a new prediction algorithm based
-on the Automated Solar Activity Prediction system (ASAP) system. The
-proposed algorithm updates the ASAP system by extending the training
-process and optimizing the learning rules to create better optimization
-for the performance. Two neural networks are used in the proposed
-system. The first neural network is used to predict whether a certain
-sunspot class at a certain time is likely to produce a significant flare
-or not. The second neural network is used to predict the type of this
-flare, X or M-class. Some measurement criteria are applied to determine
-the extent of system performance and all results are provided in this
-paper. The results exhibit that the proposed algorithm outperforms the
-old ASAP system.
-
-**Ahmed Fakhri**
-
-Teesside University
-
-**Techno-Economic Analysis of Li-ion Batteries in the Capacity Market
-with Different Degradation Models**
-
-Increased deployment of intermittent renewable energy plants raises
-concerns about energy security. Capacity markets (CM) have been
-implemented to secure energy generation and provide energy affordability
-for customers. This paper contributes to answering the question of
-whether batteries can provide cost effective back up services in this
-market. It improves on earlier research in the field by considering
-battery degradation and capacity market de-rating factors. To provide a
-comprehensive techno-economic analysis, three lithium ion battery
-degradation models with different complexity were utilised. The results
-demonstrated that degradation cost can significantly impact the
-potential profit from each battery and the battery with the 1h de-rating
-factor shows the highest revenue within the current CM regulations. The
-empirical degradation model is simple but overestimate the capacity loss
-especially in the first cycles. Keeping the temperature at 5ºC and at
-low SoC (20%) offers the highest profit. In contrast, the semi-empirical
-model shows that the degradation cost is maximum at 5ºC and minimal at
-25ºC with SoC (20%). The physics model offers a deeper understanding for
-the complex degradation mechanisms inside the battery and it shows that
-minimum degradation is at 5ºC in storing condition. While CM rules
-require batteries to remain ready to respond at system stress events,
-the results suggest that large losses are anticipated if batteries are
-kept at 100% state of charge.
-
-**Conor Dorrian**
-
-Letterkenny Institute of Technology (LYIT)
-
-**Can event-driven micro-services be ameliorated through performance
-feedback from performance data?**
-
-When an event-driven micro-service is created there is often less
-emphasis into performance testing or monitoring it as testing isn’t
-straightforward and proves to be very time consuming. This may result in
-errors and difficulties later in the lifecycle of the event-driven
-microservice as it scales. Performance testing should be a necessity
-when developing a microservice, but unfortunately it does not often
-happen unless a serious complication arises further in the event-driven
-lifecycle, this will take up more time, energy and cost than doing it at
-the start of the deployment lifecycle. Each service in a microservice
-may have its own dependencies, some direct, others transitive and each
-service could connect to its one or more databases such as Mongodb and
-MySQL. Establishing a valid record of these dependencies for each
-service is difficult to maintain, requiring a dedicated team to monitor
-each service inside the microservice. Whether it’s database errors,
-network latency, caching issues, or service unavailability, event-driven
-microservices should be able to handle a reasonable level of faults.
-Performance testing highlights defects and performance issues in the
-event-driven microservice early and ultimately will help curb these
-issues before going into a production environment. The aim of this paper
-is to inform development teams and DevOps engineers about managing their
-performance testing within microservices. Using specific tools to test
-different aspects of performance testing such as Load testing and
-resilience testing will ultimately create a more fault tolerant
-microservices from the evidence collected through the means of
-performance testing to create a tangible and adaptable framework.
-
-**Group 2**
-
-*Speakers in the evening paper presentation session*
-
-This session will be chaired by Dr Thaddeus Eze
-
-**Salem Mansour**
-
-University of Sheffield
+### Salem Mansour - University of Sheffield
 
 **A Meta-Analysis for Evaluating the Efficacy of Different BCI Designs
-for Upper Limb Stroke Rehabilitation**
-
-Recently brain-computer interface (BCI) has attracted increasing
+for Upper Limb Stroke Rehabilitation** Recently brain-computer interface (BCI) has attracted increasing
 attention as a potential tool for post-stroke upper limb rehabilitation.
 Nevertheless, different BCI designs, used in clinical trials, stated
 different clinical outcomes. The mechanism and efficiency of BCI for
@@ -467,14 +421,10 @@ However, this conclusion should be taken carefully since our sample size
 was relatively small and the heterogeneity between the selected RCTs
 studies.
 
-**Sheena Worthington**
-
-University of Chester
+### Sheena Worthington - University of Chester
 
 **New Chemical Processing and Recycling Technologies for
-Auto-catalysts**
-
-The purpose of this research project is to develop a method to recycle
+Auto-catalysts** The purpose of this research project is to develop a method to recycle
 ceramic fibre. The ceramic fibre to be investigated is from catalytic
 converters. The current methodology involves the characterisation of the
 feed ceramic material, this will establish a suitable composition to
@@ -504,13 +454,9 @@ Currently the proposal scheme is still in its novelty. The future
 success of the project depends on quantity recovered, how pure it is,
 and the available market for the products recovered.
 
-**Muhammad Saleheen Aftab**
+### Muhammad Saleheen Aftab - University of Sheffield
 
-University of Sheffield
-
-**On handling difficult dynamics with Predictive Functional Control**
-
-Predictive Functional Control (PFC) offers numerous advantages such as
+**On handling difficult dynamics with Predictive Functional Control** Predictive Functional Control (PFC) offers numerous advantages such as
 trivial coding, easier implementation and simpler handling without
 requiring sophisticated knowledge or specialised personnel. Besides
 systematic handling of input and output constraints as well as process
@@ -541,13 +487,9 @@ disturbance, sensor noise and model uncertainties. The work is pretty
 much in initial stages and the presenter would highly appreciate
 constructive feedback in this regard.
 
-**Simon Obute**
+### Simon Obute - University of Leeds
 
-University of Leeds
-
-**RepAtt: Achieving Swarm Coordination through Chemotaxis**
-
-Swarm foraging is a common test case application for multi-robot
+**RepAtt: Achieving Swarm Coordination through Chemotaxis** Swarm foraging is a common test case application for multi-robot
 systems. In this paper we present a novel algorithm for improving
 coordination of a robot swarm by selectively broadcasting repulsion and
 attraction signals. Robots use a chemotaxis-inspired search behaviour
@@ -559,13 +501,9 @@ algorithm significantly improves swarm effectiveness when performing a
 foraging task. A maximum reduction in foraging time of 83% was achieved
 in one world configuration.
 
-**Menwa Alshammeri**
+### Menwa Alshammeri - Jouf University
 
-Jouf University
-
-**Enhancing Topic Modeling for Quran Using Paragraph Vectors**
-
-Having a good representation of short text like Quran can benefit the
+**Enhancing Topic Modeling for Quran Using Paragraph Vectors** Having a good representation of short text like Quran can benefit the
 semantic understanding and inferring coherent topics. The Quran has been
 the subject of numerous studies due to its linguistic and spiritual
 value. Scholars have studied Quran for its topics. They have drawn out
@@ -588,7 +526,9 @@ positive results confirm that having good representations for texts can
 promote its understanding and locate the semantically related verses
 under the same topic.
 
-**Poster Presenters**
+---
+
+## Poster Presenters
 
 <table>
 <thead>
