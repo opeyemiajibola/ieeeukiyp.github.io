@@ -13,7 +13,7 @@ sidebar:
     nav: "stem_symp_sidebar"
 toc: true
 sponsors:
-  - url: http://www.leeds.ac.uk/
+  - url: https://edu.ieee.org/uk-leeds/
     image_path: /assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png
     alt: "University of Leeds"
   - url: https://ieeeukiyp.org/
@@ -31,13 +31,13 @@ sponsors:
 <tr class="odd">
 <td><strong>Time </strong></td>
 <td><strong>Session </strong></td>
-<td><strong>Room </strong></td>
+<td><strong>Venue </strong></td>
 </tr>
 <tr class="even">
 <td>08:50-09:20</td>
 <td><p><strong>Registration </strong></p>
 <p>Sign in and collect your symposium welcome pack. Tea and coffee will be available upon your arrival in LG.04 Foyer, Liberty Building</p></td>
-<td>Liberty Building LG.06 Foyer</td>
+<td> <a href="https://goo.gl/maps/ZTEiZvYMPHkrN6HSA">Liberty Building </a>  LG.06 Foyer</td>
 </tr>
 <tr class="odd">
 <td>09:20-09:30</td>
@@ -55,19 +55,19 @@ sponsors:
 <td>10:10-10:30</td>
 <td><p><strong>Tea &amp; Coffee Break</strong></p>
 <p>An opportunity to network over the coffee break.</p></td>
-<td>Liberty Building LG.06 Foyer</td>
+<td>Liberty Building  LG.06 Foyer</td>
 </tr>
 <tr class="even">
 <td>10:30-12:00</td>
 <td><p><strong>Oral Presentation Group 1</strong></p>
-<p>See who's presenting in Group 1: Presentation Schedule</p></td>
+<p>See who's presenting in <a href="#oral-presentation-group-1">Group 1</a></p></td>
 <td>Liberty Building LG.06</td>
 </tr>
 <tr class="odd">
 <td>12:00-13:30</td>
 <td><p><strong>Lunch and Poster session </strong></p>
 <p>An opportunity to network and browse the symposium poster submissions over lunch</p></td>
-<td>School of Electronic and Electrical Engineering - Foyer</td>
+<td> <a href="https://goo.gl/maps/TBMU5dwZPquZXFLQA">School of Electronic and Electrical Engineering</a> - Foyer</td>
 </tr>
 <tr class="even">
 <td>13:30-14:10</td>
@@ -102,7 +102,7 @@ sponsors:
 <tr class="odd">
 <td>16:10-17:00</td>
 <td><p><strong>Oral Presentation Group 2</strong></p>
-<p>See who's presenting in Group 2: Presentation Schedule</p></td>
+<p>See who's presenting in <a href="#oral-presentation-group-2">Group 2</a></p></td>
 <td>School of Electronic &amp; Electrical Engineering- Rhodes Lecture Theatre</td>
 </tr>
 <tr class="even">
@@ -121,7 +121,7 @@ sponsors:
 <td>18:40</td>
 <td><p><strong>Symposium Networking Dinner </strong></p>
 <p>A chance to network with symposium attendees and speakers over a 3-course dinner and welcome drink. (interested participant will pay a charge to the restaurant)</p></td>
-<td>Leeds Red Hot buffet</td>
+<td><a href="https://goo.gl/maps/RyjbRJmhYU5QoBUB9">Leeds Red Hot buffet</a> </td>
 </tr>
 </tbody>
 </table>
@@ -131,7 +131,7 @@ minutes allocated for questions (10 minutes total).
 
 ---
 
-## Group 1 - Liberty Building LG.06
+## Oral Presentation Group 1
 
 Chaired by Dr Mustafa Bakr
 
@@ -371,7 +371,7 @@ performance testing to create a tangible and adaptable framework.
 
 ---
 
-## Group 2 - School of Electronic & Electrical Engineering- Rhodes Lecture Theatre
+## Oral Presentation Group 2
 
 Chaired by Dr Thaddeus Eze
 

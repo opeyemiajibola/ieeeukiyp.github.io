@@ -12,7 +12,7 @@ sidebar:
   [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
     nav: "stem_symp_sidebar"
 sponsors:
-  - url: http://www.leeds.ac.uk/
+  - url: https://edu.ieee.org/uk-leeds/
     image_path: /assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png
     alt: "University of Leeds"
   - url: https://ieeeukiyp.org/

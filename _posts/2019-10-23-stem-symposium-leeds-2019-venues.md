@@ -12,7 +12,7 @@ sidebar:
   [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
     nav: "stem_symp_sidebar"
 sponsors:
-  - url: http://www.leeds.ac.uk/
+  - url: https://edu.ieee.org/uk-leeds/
     image_path: /assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png
     alt: "University of Leeds"
   - url: https://ieeeukiyp.org/
@@ -32,14 +32,16 @@ The morning session of the symposium will take place in the Liberty Building of 
 <figure class="half">
 	<img src="/assets/images/stem_leeds_2019/MG_0090_smaller_resized-370x185.jpg">
 	    <figcaption>Liberty Building: LG.06</figcaption>
-
 </figure>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4711.815623445192!2d-1.5606894!3d53.8089241!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48795eadd41016a3%3A0x8a16b885587c7650!2sThe%20Liberty%20Building!5e0!3m2!1sen!2sie!4v1570990257443!5m2!1sen!2sie" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 <figure class="half">
 	<img src="/assets/images/stem_leeds_2019/eee.jpg">
 	    <figcaption>School of Electronic and Electrical Engineering: Rhodes Lecture Theatre and Foyer</figcaption>
-
 </figure>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2355.874305475421!2d-1.5572319!3d53.8095203!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48795eaa37d6f157%3A0x3a763c74e6fc70db!2sSchool%20of%20Electronic%20and%20Electrical%20Engineering%2C%20University%20of%20Leeds!5e0!3m2!1sen!2sie!4v1570990495205!5m2!1sen!2sie" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 ## Getting Here!
 The symposium venues are very accessible and less than a 30-minute walk from Leeds city centre, bus and railway stations.
