@@ -12,6 +12,16 @@ sidebar:
   [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
     nav: "stem_symp_sidebar"
 toc: true
+sponsors:
+  - url: http://www.leeds.ac.uk/
+    image_path: /assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png
+    alt: "University of Leeds"
+  - url: https://ieeeukiyp.org/
+    image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
+    alt: "IEEE UK & Ireland (UK&I) Young Professionals"
+  - url: https://www.comsoc.org/
+    image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
+    alt: "IEEE Comsoc"
 ---
 
 ## Schedule table
@@ -624,3 +634,5 @@ under the same topic.
 </tr>
 </tbody>
 </table>
+
+{% include gallery id="sponsors" %}

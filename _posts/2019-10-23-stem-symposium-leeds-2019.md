@@ -11,16 +11,23 @@ sidebar:
   - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
   [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
     nav: "stem_symp_sidebar"
+sponsors:
+  - url: http://www.leeds.ac.uk/
+    image_path: /assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png
+    alt: "University of Leeds"
+  - url: https://ieeeukiyp.org/
+    image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
+    alt: "IEEE UK & Ireland (UK&I) Young Professionals"
+  - url: https://www.comsoc.org/
+    image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
+    alt: "IEEE Comsoc"
 ---
 
 Wednesday, 23<sup>rd</sup> October 2019
 
 ## Hosted by the School of Electronic and Electrical Engineering, University of Leeds
 
-<figure class="half">
-	<img src="/assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png">
-	<img src="/assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png">
-</figure>
+{% include gallery id="sponsors" %}
 
 IEEE UK & Ireland Young Professionals and the University of Leeds IEEE Student Branch cordially invite you to the 2nd postgraduate research STEM symposium.
 
@@ -50,13 +57,13 @@ The event focuses on research, enterprise and knowledge transfer and will compri
 
 **Panel Discussion**: An open panel discussion session that allows panelists to briefly introduce/discuss their outlined focus areas and to field questions from the participants and share their experiences and perspectives related to their journeys to their current careers. Focus will include:
 
--  Pathways to industry
--  Pathways to academia
--  Becoming an entrepreneur
--  Professional registration
--  Benefits of professional body membership
--  Starting MPhil/PhD (by a fresh MPhil/PhD student)
--  Finishing MPhil/PhD (by an MPhil/PhD student in their final stages)
+- Pathways to industry
+- Pathways to academia
+- Becoming an entrepreneur
+- Professional registration
+- Benefits of professional body membership
+- Starting MPhil/PhD (by a fresh MPhil/PhD student)
+- Finishing MPhil/PhD (by an MPhil/PhD student in their final stages)
 
 **Awards**: The IEEE UK & Ireland Young Professionals is sponsoring awards for “Best Oral Presentation” and “Best Poster Presentation”.
 

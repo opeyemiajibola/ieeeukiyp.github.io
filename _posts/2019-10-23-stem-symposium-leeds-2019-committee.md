@@ -11,6 +11,16 @@ sidebar:
   - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
   [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
     nav: "stem_symp_sidebar"
+sponsors:
+  - url: http://www.leeds.ac.uk/
+    image_path: /assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png
+    alt: "University of Leeds"
+  - url: https://ieeeukiyp.org/
+    image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
+    alt: "IEEE UK & Ireland (UK&I) Young Professionals"
+  - url: https://www.comsoc.org/
+    image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
+    alt: "IEEE Comsoc"
 ---
 
 Wednesday, 23<sup>rd</sup> October 2019
@@ -91,7 +101,4 @@ Wednesday, 23<sup>rd</sup> October 2019
 ### Dr Aubida Al-Hameed - University of Leeds
 **Researcher, School of Electronic and Electrical Engineering**
 
-<figure class="half">
-	<img src="/assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png">
-	<img src="/assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png">
-</figure>
+{% include gallery id="sponsors" %}
