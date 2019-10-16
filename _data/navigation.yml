@@ -5,8 +5,6 @@ main:
     url: /categories/upcoming-events/
   - title: "Previous Events"
     url: /categories/previous-events/
-  - title: "Gallery"
-    url: /gallery/
   - title: "About us"
     url: /about/
 
@@ -17,8 +15,8 @@ home_sidebar:
     url: /categories/upcoming-events/
   - title: "Previous Events"
     url: /categories/previous-events/
-  - title: "Gallery"
-    url: /gallery/
+  - title: "About us"
+    url: /about/
 
 stem_symp_sidebar:
   - title: "Symposium"
@@ -33,4 +31,3 @@ stem_symp_sidebar:
     url: /2nd_stem/venues/
   - title: "Schedule"
     url: /2nd_stem/schedule/
-
