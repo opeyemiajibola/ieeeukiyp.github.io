@@ -27,103 +27,201 @@ sponsors:
 ## Schedule table
 
 <table>
-<tbody>
-<tr class="odd">
-<td><strong>Time </strong></td>
-<td><strong>Session </strong></td>
-<td><strong>Venue </strong></td>
-</tr>
-<tr class="even">
-<td>08:50-09:20</td>
-<td><p><strong>Registration </strong></p>
-<p>Sign in and collect your symposium welcome pack. Tea and coffee will be available upon your arrival in LG.04 Foyer, Liberty Building</p></td>
-<td> <a href="https://goo.gl/maps/ZTEiZvYMPHkrN6HSA">Liberty Building </a>  LG.06 Foyer</td>
-</tr>
-<tr class="odd">
-<td>09:20-09:30</td>
-<td><p><strong>Welcome Address </strong></p>
-<p>A short welcome address</p></td>
-<td>Liberty Building LG.06</td>
-</tr>
-<tr class="even">
-<td>09:30-10:10</td>
-<td><p><strong>Symposium Keynote 1 </strong></p>
-<p>Prof. Mike Hinchey, IEEE UK &amp; Ireland Section Chair will deliver a keynote: Building resilient space exploration missions</p></td>
-<td>Liberty Building LG.06</td>
-</tr>
-<tr class="odd">
-<td>10:10-10:30</td>
-<td><p><strong>Tea &amp; Coffee Break</strong></p>
-<p>An opportunity to network over the coffee break.</p></td>
-<td>Liberty Building  LG.06 Foyer</td>
-</tr>
-<tr class="even">
-<td>10:30-12:00</td>
-<td><p><strong>Oral Presentation Group 1</strong></p>
-<p>See who's presenting in <a href="#oral-presentation-group-1">Group 1</a></p></td>
-<td>Liberty Building LG.06</td>
-</tr>
-<tr class="odd">
-<td>12:00-13:30</td>
-<td><p><strong>Lunch and Poster session </strong></p>
-<p>An opportunity to network and browse the symposium poster submissions over lunch</p></td>
-<td> <a href="https://goo.gl/maps/TBMU5dwZPquZXFLQA">School of Electronic and Electrical Engineering</a> - Foyer</td>
-</tr>
-<tr class="even">
-<td>13:30-14:10</td>
-<td><p><strong>Symposium Keynote 2 </strong></p>
-<p>Prof. Peter Jimack will deliver a keynote: Efficient numerical algorithms for the solution of fluid dynamics problems</p></td>
-<td>School of Electronic &amp; Electrical Engineering - Rhodes Lecture Theatre</td>
-</tr>
-<tr class="odd">
-<td>14:10-14:40</td>
-<td><p><strong>Workshop 1 </strong></p>
-<p>Prof. Mohsen Razavi will give a workshop: How to give a technical presentation</p></td>
-<td>School of Electronic &amp; Electrical Engineering - Rhodes Lecture Theatre</td>
-</tr>
-<tr class="even">
-<td>14:40-15:10</td>
-<td><p><strong>Workshop 2</strong></p>
-<p>Prof. Christoph Wälti will give a workshop: How to write research fellowship applications</p></td>
-<td>School of Electronic &amp; Electrical Engineering - Rhodes Lecture Theatre</td>
-</tr>
-<tr class="odd">
-<td>15:10-15:30</td>
-<td><p><strong>Tea &amp; Coffee Break &amp; Poster Session </strong></p>
-<p>An opportunity to network and browse the symposium poster submissions over the coffee break.</p></td>
-<td>School of Electronic &amp; Electrical Engineering - Foyer</td>
-</tr>
-<tr class="even">
-<td>15.30-16.10</td>
-<td><p><strong>Symposium Keynote 3 </strong></p>
-<p>Eric Hawthorn, Executive Chairman, Radio Design LTD will deliver a keynote: Cellular Radio – Business &amp; Technology</p></td>
-<td>School of Electronic &amp; Electrical Engineering- Rhodes Lecture Theatre</td>
-</tr>
-<tr class="odd">
-<td>16:10-17:00</td>
-<td><p><strong>Oral Presentation Group 2</strong></p>
-<p>See who's presenting in <a href="#oral-presentation-group-2">Group 2</a></p></td>
-<td>School of Electronic &amp; Electrical Engineering- Rhodes Lecture Theatre</td>
-</tr>
-<tr class="even">
-<td>17:00-17:40</td>
-<td><p><strong>Panel Discussion </strong></p>
-<p>An open discussion session that allows panellists to briefly discuss their outlined focus areas and to field questions from the attendees</p></td>
-<td>School of Electronic &amp; Electrical Engineering - Rhodes Lecture Theatre</td>
-</tr>
-<tr class="odd">
-<td>17:40-18:00</td>
-<td><p><strong>Closing Remarks, Awards Ceremony </strong></p>
-<p>Awards presented for the best oral and poster presentations.</p></td>
-<td>School of Electronic &amp; Electrical Engineering - Rhodes Lecture Theatre</td>
-</tr>
-<tr class="even">
-<td>18:40</td>
-<td><p><strong>Symposium Networking Dinner </strong></p>
-<p>A chance to network with symposium attendees and speakers over a 3-course dinner and welcome drink. (interested participant will pay a charge to the restaurant)</p></td>
-<td><a href="https://goo.gl/maps/RyjbRJmhYU5QoBUB9">Leeds Red Hot buffet</a> </td>
-</tr>
-</tbody>
+  <tbody>
+    <tr class="odd">
+      <td><strong>Time </strong></td>
+      <td><strong>Session </strong></td>
+      <td><strong>Venue </strong></td>
+    </tr>
+    <tr class="even">
+      <td>08:50-09:20</td>
+      <td>
+        <p><strong>Registration </strong></p>
+        <p>
+          Sign in and collect your symposium welcome pack. Tea and coffee will
+          be available upon your arrival in LG.04 Foyer, Liberty Building
+        </p>
+      </td>
+      <td>
+        <a href="https://goo.gl/maps/ZTEiZvYMPHkrN6HSA">Liberty Building </a>
+        LG.06 Foyer
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>09:20-09:30</td>
+      <td>
+        <p><strong>Welcome Address </strong></p>
+        <p>A short welcome address</p>
+      </td>
+      <td>Liberty Building LG.06</td>
+    </tr>
+    <tr class="even">
+      <td>09:30-10:10</td>
+      <td>
+        <p><strong>Symposium Keynote 1 </strong></p>
+        <p>
+          Prof. Mike Hinchey, IEEE UK &amp; Ireland Section Chair will deliver a
+          keynote: Building resilient space exploration missions
+        </p>
+      </td>
+      <td>Liberty Building LG.06</td>
+    </tr>
+    <tr class="odd">
+      <td>10:10-10:30</td>
+      <td>
+        <p><strong>Tea &amp; Coffee Break</strong></p>
+        <p>An opportunity to network over the coffee break.</p>
+      </td>
+      <td>Liberty Building LG.06 Foyer</td>
+    </tr>
+    <tr class="even">
+      <td>10:30-12:00</td>
+      <td>
+        <p><strong>Oral Presentation Group 1</strong></p>
+        <p>
+          See who's presenting in
+          <a href="#oral-presentation-group-1">Group 1</a>
+        </p>
+      </td>
+      <td>Liberty Building LG.06</td>
+    </tr>
+    <tr class="odd">
+      <td>12:00-13:30</td>
+      <td>
+        <p><strong>Lunch and Poster session </strong></p>
+        <p>
+          An opportunity to network and browse the symposium poster submissions
+          over lunch
+        </p>
+      </td>
+      <td>
+        <a href="https://goo.gl/maps/TBMU5dwZPquZXFLQA"
+          >School of Electronic and Electrical Engineering</a
+        >
+        - Foyer
+      </td>
+    </tr>
+    <tr class="even">
+      <td>13:30-14:10</td>
+      <td>
+        <p><strong>Symposium Keynote 2 </strong></p>
+        <p>
+          Prof. Peter Jimack will deliver a keynote: Efficient numerical
+          algorithms for the solution of fluid dynamics problems
+        </p>
+      </td>
+      <td>
+        School of Electronic &amp; Electrical Engineering - Rhodes Lecture
+        Theatre
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>14:10-14:40</td>
+      <td>
+        <p><strong>Workshop 1 </strong></p>
+        <p>
+          Prof. Mohsen Razavi will give a workshop: How to give a technical
+          presentation
+        </p>
+      </td>
+      <td>
+        School of Electronic &amp; Electrical Engineering - Rhodes Lecture
+        Theatre
+      </td>
+    </tr>
+    <tr class="even">
+      <td>14:40-15:10</td>
+      <td>
+        <p><strong>Workshop 2</strong></p>
+        <p>
+          Prof. Christoph Wälti will give a workshop: How to write research
+          fellowship applications
+        </p>
+      </td>
+      <td>
+        School of Electronic &amp; Electrical Engineering - Rhodes Lecture
+        Theatre
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>15:10-15:30</td>
+      <td>
+        <p><strong>Tea &amp; Coffee Break &amp; Poster Session </strong></p>
+        <p>
+          An opportunity to network and browse the symposium poster submissions
+          over the coffee break.
+        </p>
+      </td>
+      <td>School of Electronic &amp; Electrical Engineering - Foyer</td>
+    </tr>
+    <tr class="even">
+      <td>15.30-16.10</td>
+      <td>
+        <p><strong>Symposium Keynote 3 </strong></p>
+        <p>
+          Eric Hawthorn, Executive Chairman, Radio Design LTD will deliver a
+          keynote: Cellular Radio – Business &amp; Technology
+        </p>
+      </td>
+      <td>
+        School of Electronic &amp; Electrical Engineering- Rhodes Lecture
+        Theatre
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>16:10-17:00</td>
+      <td>
+        <p><strong>Oral Presentation Group 2</strong></p>
+        <p>
+          See who's presenting in
+          <a href="#oral-presentation-group-2">Group 2</a>
+        </p>
+      </td>
+      <td>
+        School of Electronic &amp; Electrical Engineering- Rhodes Lecture
+        Theatre
+      </td>
+    </tr>
+    <tr class="even">
+      <td>17:00-17:40</td>
+      <td>
+        <p><strong>Panel Discussion </strong></p>
+        <p>
+          An open discussion session that allows panellists to briefly discuss
+          their outlined focus areas and to field questions from the attendees
+        </p>
+      </td>
+      <td>
+        School of Electronic &amp; Electrical Engineering - Rhodes Lecture
+        Theatre
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>17:40-18:00</td>
+      <td>
+        <p><strong>Closing Remarks, Awards Ceremony </strong></p>
+        <p>Awards presented for the best oral and poster presentations.</p>
+      </td>
+      <td>
+        School of Electronic &amp; Electrical Engineering - Rhodes Lecture
+        Theatre
+      </td>
+    </tr>
+    <tr class="even">
+      <td>18:40</td>
+      <td>
+        <p><strong>Symposium Networking Dinner </strong></p>
+        <p>
+          A chance to network with symposium attendees and speakers over a
+          3-course dinner and welcome drink. (interested participant will pay a
+          charge to the restaurant)
+        </p>
+      </td>
+      <td>
+        <a href="https://goo.gl/maps/RyjbRJmhYU5QoBUB9">Leeds Red Hot buffet</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 Speakers should be prepared to make an 8-minute presentation with 2
@@ -136,47 +234,48 @@ minutes allocated for questions (10 minutes total).
 Chaired by Dr Mustafa Bakr
 
 <table>
-<thead>
-<tr class="header">
-<th><strong>Time</strong></th>
-<th><strong>Speaker</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>10:30 - 10:40</td>
-<td>Oluseyi Temitope Okeowo</td>
-</tr>
-<tr class="even">
-<td>10:40 - 10:50</td>
-<td>Valentina Casadei</td>
-</tr>
-<tr class="odd">
-<td>10:50 - 11:00</td>
-<td>Francois S. Hallac</td>
-</tr>
-<tr class="even">
-<td>11:00 - 11:10</td>
-<td>Carla Taylor-Rutterford</td>
-</tr>
-<tr class="odd">
-<td>11:10 - 11:20</td>
-<td>Nishal Chandarana</td>
-</tr>
-<tr class="even">
-<td>11:20 - 11:30</td>
-<td>Ali K Abed</td>
-</tr>
-<tr class="odd">
-<td>11:30 - 11:40</td>
-<td>Ahmed Fakhri</td>
-</tr>
-<tr class="even">
-<td>11:40 - 11:50</td>
-<td>Conor Dorrian</td>
-</tr>
-</tbody>
+  <thead>
+    <tr class="header">
+      <th><strong>Time</strong></th>
+      <th><strong>Speaker</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="odd">
+      <td>10:30 - 10:40</td>
+      <td>Oluseyi Temitope Okeowo</td>
+    </tr>
+    <tr class="even">
+      <td>10:40 - 10:50</td>
+      <td>Valentina Casadei</td>
+    </tr>
+    <tr class="odd">
+      <td>10:50 - 11:00</td>
+      <td>Francois S. Hallac</td>
+    </tr>
+    <tr class="even">
+      <td>11:00 - 11:10</td>
+      <td>Carla Taylor-Rutterford</td>
+    </tr>
+    <tr class="odd">
+      <td>11:10 - 11:20</td>
+      <td>Nishal Chandarana</td>
+    </tr>
+    <tr class="even">
+      <td>11:20 - 11:30</td>
+      <td>Ali K Abed</td>
+    </tr>
+    <tr class="odd">
+      <td>11:30 - 11:40</td>
+      <td>Ahmed Fakhri</td>
+    </tr>
+    <tr class="even">
+      <td>11:40 - 11:50</td>
+      <td>Conor Dorrian</td>
+    </tr>
+  </tbody>
 </table>
+
 
 ### Oluseyi Temitope Okeowo - University of Salford
 
@@ -376,34 +475,34 @@ performance testing to create a tangible and adaptable framework.
 Chaired by Dr Thaddeus Eze
 
 <table>
-<thead>
-<tr class="header">
-<th><strong>Time</strong></th>
-<th><strong>Speaker</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>16:10 - 16:20</td>
-<td>Salem Mansour</td>
-</tr>
-<tr class="even">
-<td>16:20 - 16:30</td>
-<td>Sheena Worthington</td>
-</tr>
-<tr class="odd">
-<td>16:30 - 16:40</td>
-<td>Muhammad Saleheen Aftab</td>
-</tr>
-<tr class="even">
-<td>16:40 - 16:50</td>
-<td>Simon Obute</td>
-</tr>
-<tr class="odd">
-<td>16:50 - 17:00</td>
-<td>Menwa Alshammeri</td>
-</tr>
-</tbody>
+  <thead>
+    <tr class="header">
+      <th><strong>Time</strong></th>
+      <th><strong>Speaker</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="odd">
+      <td>16:10 - 16:20</td>
+      <td>Salem Mansour</td>
+    </tr>
+    <tr class="even">
+      <td>16:20 - 16:30</td>
+      <td>Sheena Worthington</td>
+    </tr>
+    <tr class="odd">
+      <td>16:30 - 16:40</td>
+      <td>Muhammad Saleheen Aftab</td>
+    </tr>
+    <tr class="even">
+      <td>16:40 - 16:50</td>
+      <td>Simon Obute</td>
+    </tr>
+    <tr class="odd">
+      <td>16:50 - 17:00</td>
+      <td>Menwa Alshammeri</td>
+    </tr>
+  </tbody>
 </table>
 
 ### Salem Mansour - University of Sheffield
@@ -541,98 +640,170 @@ under the same topic.
 ## Poster Presenters
 
 <table>
-<thead>
-<tr class="header">
-<th><strong>Presenter</strong></th>
-<th><strong>Title of Presentation</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Kieran Bull</td>
-<td>Systematic construction of scarred many-body dynamics in 1D lattice models</td>
-</tr>
-<tr class="even">
-<td>Francesco Foglino</td>
-<td>Curriculum Learning for Cumulative Return Maximization</td>
-</tr>
-<tr class="odd">
-<td>Omar A. Jasim</td>
-<td>A framework of Control System Verification for Flights Safety of Unmanned Aerial Vehicles</td>
-</tr>
-<tr class="even">
-<td>Francois S. Hallac</td>
-<td>The breakage of elongated particles for agitated drying conditions in the pharmaceutical industry</td>
-</tr>
-<tr class="odd">
-<td>Nikollao Sulollari</td>
-<td>Terahertz imaging of surface plasmons on 2D structures</td>
-</tr>
-<tr class="even">
-<td>Flora Biggins</td>
-<td>Optimal scheduling of energy storage devices to create profit through arbitrage</td>
-</tr>
-<tr class="odd">
-<td>Menwa Alshammeri</td>
-<td>Enhancing Topic Modeling for Quran Using Paragraph Vectors</td>
-</tr>
-<tr class="even">
-<td>Majid Al Saadi</td>
-<td>An Analysis of Teaching and Learning Strategies Used in Mathematics Classrooms in Jordan</td>
-</tr>
-<tr class="odd">
-<td>Mohamad Riduwann bin Md Nawawi</td>
-<td>Electrical Characterization of GaAsBi MWQ pin diode for Future Photovoltaic Cell Application</td>
-</tr>
-<tr class="even">
-<td>Syeda Fariha Hasnain</td>
-<td>Critical Analysis and Exploration of Artificial Intelligence Algorithms and Techniques in CRN</td>
-</tr>
-<tr class="odd">
-<td>Eleanor Nuttall</td>
-<td>Terahertz Lasers: New Techniques for Studying the Chemistry of Climate Change</td>
-</tr>
-<tr class="even">
-<td>Alexia Toumpa</td>
-<td>Relational Graph Representation Learning for Predicting Object Affordances</td>
-</tr>
-<tr class="odd">
-<td>Christopher Wirth</td>
-<td>&quot;You Have Reached Your Destination&quot;: A Single Trial EEG Classification in Navigation</td>
-</tr>
-<tr class="even">
-<td>Pavel Israel Muniz Zavala</td>
-<td>Table tennis ball trajectory prediction and control through deep learning and neural networks.</td>
-</tr>
-<tr class="odd">
-<td>Sophie Middleton</td>
-<td>Towards digital citizenship: A digital literacy curriculum to support teachers in the classroom</td>
-</tr>
-<tr class="even">
-<td>Hammajam Ahmed Adamu</td>
-<td>Security and Privacy Compliance Framework for Software as a Service (SaaS) Business Applications – Retail Sector of the Nigerian Oil and Gas Industry as a Case Study</td>
-</tr>
-<tr class="odd">
-<td>Lukasz Tyszczuk Smith</td>
-<td>Multimodal Physiological Markers for Improving Diagnosis and Prognosis of Depression</td>
-</tr>
-<tr class="even">
-<td>Samantha Sargeant</td>
-<td>Artificial Intelligence Technology for Stem Cell Therapy Manufacturing</td>
-</tr>
-<tr class="odd">
-<td>Ahmed Azab</td>
-<td>An Ensemble Framework with Temporal Alignment for Improving BCI Performance in Small Sample Settings</td>
-</tr>
-<tr class="even">
-<td>Yu Liu</td>
-<td>Optogenetic Brain-machine Interface System for a Visual Cortex Prosthesis</td>
-</tr>
-<tr class="odd">
-<td>Sheena Worthington</td>
-<td>New Chemical Processing and Recycling Technologies for Auto-catalysts</td>
-</tr>
-</tbody>
+  <thead>
+    <tr class="header">
+      <th><strong>Presenter</strong></th>
+      <th><strong>Title of Presentation</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="odd">
+      <td>Kieran Bull</td>
+      <td>
+        Systematic construction of scarred many-body dynamics in 1D lattice
+        models
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Francesco Foglino</td>
+      <td>Curriculum Learning for Cumulative Return Maximization</td>
+    </tr>
+    <tr class="odd">
+      <td>Omar A. Jasim</td>
+      <td>
+        A framework of Control System Verification for Flights Safety of
+        Unmanned Aerial Vehicles
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Francois S. Hallac</td>
+      <td>
+        The breakage of elongated particles for agitated drying conditions in
+        the pharmaceutical industry
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Nikollao Sulollari</td>
+      <td>Terahertz imaging of surface plasmons on 2D structures</td>
+    </tr>
+    <tr class="even">
+      <td>Flora Biggins</td>
+      <td>
+        Optimal scheduling of energy storage devices to create profit through
+        arbitrage
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Menwa Alshammeri</td>
+      <td>Enhancing Topic Modeling for Quran Using Paragraph Vectors</td>
+    </tr>
+    <tr class="even">
+      <td>Majid Al Saadi</td>
+      <td>
+        An Analysis of Teaching and Learning Strategies Used in Mathematics
+        Classrooms in Jordan
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Mohamad Riduwann bin Md Nawawi</td>
+      <td>
+        Electrical Characterization of GaAsBi MWQ pin diode for Future
+        Photovoltaic Cell Application
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Syeda Fariha Hasnain</td>
+      <td>
+        Critical Analysis and Exploration of Artificial Intelligence Algorithms
+        and Techniques in CRN
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Eleanor Nuttall</td>
+      <td>
+        Terahertz Lasers: New Techniques for Studying the Chemistry of Climate
+        Change
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Alexia Toumpa</td>
+      <td>
+        Relational Graph Representation Learning for Predicting Object
+        Affordances
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Christopher Wirth</td>
+      <td>
+        &quot;You Have Reached Your Destination&quot;: A Single Trial EEG
+        Classification in Navigation
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Pavel Israel Muniz Zavala</td>
+      <td>
+        Table tennis ball trajectory prediction and control through deep
+        learning and neural networks.
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Sophie Middleton</td>
+      <td>
+        Towards digital citizenship: A digital literacy curriculum to support
+        teachers in the classroom
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Hammajam Ahmed Adamu</td>
+      <td>
+        Security and Privacy Compliance Framework for Software as a Service
+        (SaaS) Business Applications – Retail Sector of the Nigerian Oil and Gas
+        Industry as a Case Study
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Lukasz Tyszczuk Smith</td>
+      <td>
+        Multimodal Physiological Markers for Improving Diagnosis and Prognosis
+        of Depression
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Samantha Sargeant</td>
+      <td>
+        Artificial Intelligence Technology for Stem Cell Therapy Manufacturing
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Ahmed Azab</td>
+      <td>
+        An Ensemble Framework with Temporal Alignment for Improving BCI
+        Performance in Small Sample Settings
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Yu Liu</td>
+      <td>
+        Optogenetic Brain-machine Interface System for a Visual Cortex
+        Prosthesis
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Sheena Worthington</td>
+      <td>
+        New Chemical Processing and Recycling Technologies for Auto-catalysts
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Soham Gharia</td>
+      <td>
+        griBlockIoT: Towards traceability in future food-supply industry
+      </td>
+    </tr>
+    <tr class="odd">
+      <td>Bintang Ekananda</td>
+      <td>
+        Energy Audit and Energy Conservation Measures Analysis using eQUEST – A
+        Case Study at Neville Hill Train Maintenance Depot, Leeds, UK.
+      </td>
+    </tr>
+    <tr class="even">
+      <td>Henrique Gil</td>
+      <td>
+        Serious games and empathy
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 {% include gallery id="sponsors" %}
