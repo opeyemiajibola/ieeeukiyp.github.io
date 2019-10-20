@@ -22,18 +22,23 @@ sponsors:
   - url: https://www.comsoc.org/
     image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
     alt: "IEEE Comsoc"
+  - url: http://ieee-aess.org/          
+    image_path: /assets/images/2nd_stem/aess_logo.jpg
+    alt: "IEEE Comsoc"   
 ---
 
 ## Schedule table
 
 <table>
+  <thead>
+    <tr class="header">
+      <th><strong>Time </strong></th>
+      <th><strong>Session </strong></th>
+      <th><strong>Venue </strong></th>
+    </tr>
+  </thead>
   <tbody>
     <tr class="odd">
-      <td><strong>Time </strong></td>
-      <td><strong>Session </strong></td>
-      <td><strong>Venue </strong></td>
-    </tr>
-    <tr class="even">
       <td>08:50-09:20</td>
       <td>
         <p><strong>Registration </strong></p>
@@ -47,35 +52,37 @@ sponsors:
         LG.06 Foyer
       </td>
     </tr>
-    <tr class="odd">
-      <td>09:20-09:30</td>
+    <tr class="even">
+      <td>09:20-09:35</td>
       <td>
         <p><strong>Welcome Address </strong></p>
-        <p>A short welcome address</p>
-      </td>
-      <td>Liberty Building LG.06</td>
-    </tr>
-    <tr class="even">
-      <td>09:30-10:10</td>
-      <td>
-        <p><strong>Symposium Keynote 1 </strong></p>
         <p>
-          Prof. Mike Hinchey, IEEE UK &amp; Ireland Section Chair will deliver a
-          keynote: Building resilient space exploration missions
+          A short welcome address – Prof Robert Kelsall &amp; Dr Matt Ritchie
         </p>
       </td>
       <td>Liberty Building LG.06</td>
     </tr>
     <tr class="odd">
-      <td>10:10-10:30</td>
+      <td>09:35-10:15</td>
       <td>
-        <p><strong>Tea &amp; Coffee Break</strong></p>
+        <p><strong>Symposium Keynote Address 1 </strong></p>
+        <p>
+          Prof Mike Hinchey, IEEE UK &amp; Ireland Section Chair “Building
+          resilient space exploration missions”
+        </p>
+      </td>
+      <td>Liberty Building LG.06</td>
+    </tr>
+    <tr class="even">
+      <td>10:15-10:30</td>
+      <td>
+        <p><strong>Tea &amp; Coffee Break </strong></p>
         <p>An opportunity to network over the coffee break.</p>
       </td>
       <td>Liberty Building LG.06 Foyer</td>
     </tr>
-    <tr class="even">
-      <td>10:30-12:00</td>
+    <tr class="odd">
+      <td>10:30-11:50</td>
       <td>
         <p><strong>Oral Presentation Group 1</strong></p>
         <p>
@@ -85,13 +92,13 @@ sponsors:
       </td>
       <td>Liberty Building LG.06</td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td>12:00-13:30</td>
       <td>
         <p><strong>Lunch and Poster session </strong></p>
         <p>
           An opportunity to network and browse the symposium poster submissions
-          over lunch
+          over lunch.
         </p>
       </td>
       <td>
@@ -101,14 +108,25 @@ sponsors:
         - Foyer
       </td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td>13:30-14:10</td>
       <td>
-        <p><strong>Symposium Keynote 2 </strong></p>
+        <p><strong>Symposium Keynote Address 2 </strong></p>
         <p>
-          Prof. Peter Jimack will deliver a keynote: Efficient numerical
-          algorithms for the solution of fluid dynamics problems
+          Prof Peter Jimack “Efficient numerical algorithms for the solution of
+          fluid dynamics problems.”
         </p>
+      </td>
+      <td>
+        School of Electronic &amp; Electrical Engineering - Rhodes Lecture
+        Theatre
+      </td>
+    </tr>
+    <tr class="even">
+      <td>14:10-14:40</td>
+      <td>
+        <p><strong>Workshop 1 </strong></p>
+        <p>Prof Mohsen Razavi “How to give a technical presentation.”</p>
       </td>
       <td>
         School of Electronic &amp; Electrical Engineering - Rhodes Lecture
@@ -116,26 +134,11 @@ sponsors:
       </td>
     </tr>
     <tr class="odd">
-      <td>14:10-14:40</td>
-      <td>
-        <p><strong>Workshop 1 </strong></p>
-        <p>
-          Prof. Mohsen Razavi will give a workshop: How to give a technical
-          presentation
-        </p>
-      </td>
-      <td>
-        School of Electronic &amp; Electrical Engineering - Rhodes Lecture
-        Theatre
-      </td>
-    </tr>
-    <tr class="even">
       <td>14:40-15:10</td>
       <td>
         <p><strong>Workshop 2</strong></p>
         <p>
-          Prof. Christoph Wälti will give a workshop: How to write research
-          fellowship applications
+          Prof. Christoph Wälti “How to write research fellowship applications.”
         </p>
       </td>
       <td>
@@ -143,7 +146,7 @@ sponsors:
         Theatre
       </td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td>15:10-15:30</td>
       <td>
         <p><strong>Tea &amp; Coffee Break &amp; Poster Session </strong></p>
@@ -154,13 +157,13 @@ sponsors:
       </td>
       <td>School of Electronic &amp; Electrical Engineering - Foyer</td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td>15.30-16.10</td>
       <td>
         <p><strong>Symposium Keynote 3 </strong></p>
         <p>
-          Eric Hawthorn, Executive Chairman, Radio Design LTD will deliver a
-          keynote: Cellular Radio – Business &amp; Technology
+          Eric Hawthorn, Executive Chairman, Radio Design Ltd “Cellular Radio –
+          Business &amp; Technology.”
         </p>
       </td>
       <td>
@@ -168,7 +171,7 @@ sponsors:
         Theatre
       </td>
     </tr>
-    <tr class="odd">
+    <tr class="even">
       <td>16:10-17:00</td>
       <td>
         <p><strong>Oral Presentation Group 2</strong></p>
@@ -182,13 +185,28 @@ sponsors:
         Theatre
       </td>
     </tr>
-    <tr class="even">
+    <tr class="odd">
       <td>17:00-17:40</td>
       <td>
         <p><strong>Panel Discussion </strong></p>
         <p>
-          An open discussion session that allows panellists to briefly discuss
-          their outlined focus areas and to field questions from the attendees
+          Prof Ian Hunter, Chair. Discussion on increasing impact of academic
+          activities on industry.
+        </p>
+      </td>
+      <td>
+        School of Electronic &amp; Electrical Engineering - Rhodes Lecture
+        Theatre
+      </td>
+    </tr>
+    <tr class="even">
+      <td>17:40-18:00</td>
+      <td>
+        <p><strong>Closing Remarks, Awards Ceremony </strong></p>
+        <p>
+          Awards will be presented for the best oral and poster presentations.
+          Both awards are sponsored by IEEE Communications Society (ComSoc)
+          Chapter UK and Ireland.
         </p>
       </td>
       <td>
@@ -197,24 +215,13 @@ sponsors:
       </td>
     </tr>
     <tr class="odd">
-      <td>17:40-18:00</td>
-      <td>
-        <p><strong>Closing Remarks, Awards Ceremony </strong></p>
-        <p>Awards presented for the best oral and poster presentations.</p>
-      </td>
-      <td>
-        School of Electronic &amp; Electrical Engineering - Rhodes Lecture
-        Theatre
-      </td>
-    </tr>
-    <tr class="even">
       <td>18:40</td>
       <td>
         <p><strong>Symposium Networking Dinner </strong></p>
         <p>
           A chance to network with symposium attendees and speakers over a
           3-course dinner and welcome drink. (interested participant will pay a
-          charge to the restaurant)
+          charge to the restaurant).
         </p>
       </td>
       <td>
@@ -610,7 +617,7 @@ algorithm significantly improves swarm effectiveness when performing a
 foraging task. A maximum reduction in foraging time of 83% was achieved
 in one world configuration.
 
-### Menwa Alshammeri - Jouf University
+### Menwa Alshammeri - University of Leeds
 
 **Enhancing Topic Modeling for Quran Using Paragraph Vectors** Having a good representation of short text like Quran can benefit the
 semantic understanding and inferring coherent topics. The Quran has been
@@ -787,7 +794,7 @@ under the same topic.
     <tr class="even">
       <td>Soham Gharia</td>
       <td>
-        griBlockIoT: Towards traceability in future food-supply industry
+        AgriBlockIoT: Towards traceability in future food-supply industry
       </td>
     </tr>
     <tr class="odd">
@@ -803,7 +810,14 @@ under the same topic.
         Serious games and empathy
       </td>
     </tr>
+    <tr class="odd">
+      <td>Mubashra Latif</td>
+      <td>
+        Improving technically challenging biomass fuels for heat and power
+        production
+      </td>
+    </tr>
   </tbody>
 </table>
 
-{% include gallery id="sponsors" %}
+{% include gallery id="sponsors" layout="half" %}

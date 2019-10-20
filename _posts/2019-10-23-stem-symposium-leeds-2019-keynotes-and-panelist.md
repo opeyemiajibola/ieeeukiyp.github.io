@@ -21,6 +21,9 @@ sponsors:
   - url: https://www.comsoc.org/
     image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
     alt: "IEEE Comsoc"
+  - url: http://ieee-aess.org/          
+    image_path: /assets/images/2nd_stem/aess_logo.jpg
+    alt: "IEEE Comsoc"   
 ---
 
 Wednesday, 23<sup>rd</sup> October 2019
@@ -107,4 +110,4 @@ Currently Sarah is a self-employed consultant undertaking administrative duties 
 
 **All keynotes and workshop speakers will take part in the discussion panel.**
 
-{% include gallery id="sponsors" %}
+{% include gallery id="sponsors" layout="half" %}

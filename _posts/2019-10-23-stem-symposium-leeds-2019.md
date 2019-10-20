@@ -21,13 +21,16 @@ sponsors:
   - url: https://www.comsoc.org/
     image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
     alt: "IEEE Comsoc"
+  - url: http://ieee-aess.org/          
+    image_path: /assets/images/2nd_stem/aess_logo.jpg
+    alt: "IEEE Comsoc"   
 ---
 
 Wednesday, 23<sup>rd</sup> October 2019
 
 ## Hosted by the School of Electronic and Electrical Engineering, University of Leeds
 
-{% include gallery id="sponsors" %}
+{% include gallery id="sponsors" layout="half" %}
 
 IEEE UK & Ireland Young Professionals and the University of Leeds IEEE Student Branch cordially invite you to the 2nd postgraduate research STEM symposium.
 

@@ -58,4 +58,4 @@ Leeds City coach/bus station is a 33 minute (1.5 mile) walk from the symposium v
 #### By Air:
 The nearest airports to Leeds are [Leeds/Bradford Airport](https://www.leedsbradfordairport.co.uk/)  and [Manchester Airport](https://www.manchesterairport.co.uk/).
 
-{% include gallery id="sponsors" %}
+{% include gallery id="sponsors" layout="half" %}

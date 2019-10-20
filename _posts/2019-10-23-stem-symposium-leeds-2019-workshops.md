@@ -21,6 +21,9 @@ sponsors:
   - url: https://www.comsoc.org/
     image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
     alt: "IEEE Comsoc"
+  - url: http://ieee-aess.org/          
+    image_path: /assets/images/2nd_stem/aess_logo.jpg
+    alt: "IEEE Comsoc"   
 ---
 
 Wednesday, 23<sup>rd</sup> October 2019
@@ -53,4 +56,4 @@ Christoph Wälti is Professor of Bionanotechnology in the School of Electronic a
 
 Christoph graduated from ETH Zürich, Switzerland, with an MSc in Physics in 1995 and received his PhD in 2000 from the Laboratory of Solid-State Physics of the same institution with a thesis on the study of the symmetry of the order parameter in the heavy-electron superconductor UBe13. In 2001 he was awarded a Swiss Marie-Curie Fellowship to work on the self-assembly of molecular complexes using DNA at the Cavendish Laboratory of the University of Cambridge.
 
-{% include gallery id="sponsors" %}
+{% include gallery id="sponsors" layout="half" %}

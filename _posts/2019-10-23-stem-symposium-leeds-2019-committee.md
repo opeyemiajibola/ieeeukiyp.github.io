@@ -21,6 +21,9 @@ sponsors:
   - url: https://www.comsoc.org/
     image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
     alt: "IEEE Comsoc"
+  - url: http://ieee-aess.org/          
+    image_path: /assets/images/2nd_stem/aess_logo.jpg
+    alt: "IEEE Comsoc"   
 ---
 
 Wednesday, 23<sup>rd</sup> October 2019
@@ -101,4 +104,4 @@ Wednesday, 23<sup>rd</sup> October 2019
 ### Dr Aubida Al-Hameed - University of Leeds
 **Researcher, School of Electronic and Electrical Engineering**
 
-{% include gallery id="sponsors" %}
+{% include gallery id="sponsors" layout="half" %}
