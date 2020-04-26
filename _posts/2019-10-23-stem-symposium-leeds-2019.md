@@ -3,7 +3,7 @@ title: "2<sup>nd</sup> IEEE UK&I YP Postgrad STEM Research Symposium"
 date: 2019-10-23T23:34:30+01:00
 permalink: /2nd_stem/
 categories:
-  - upcoming-events
+  - previous-events
 tags:
   - stem
   - Leeds
@@ -52,11 +52,11 @@ _What participants said about the first symposium_
 
 The event focuses on research, enterprise and knowledge transfer and will comprise of keynote talks, presentations (of submitted abstracts), panel discussion, workshops, awards and a networking dinner. Take a look to our [flyer](https://drive.google.com/file/d/1ZiIifMYh5EZIB_OAmAr0t4ZukRlbqy59/view).
 
-**Keynotes**: Learn from notable experts and entrepreneurs as they deliver [keynote](/2nd_stem/keynotes/)  talks on various business related STEM topics.
+**Keynotes**: Learn from notable experts and entrepreneurs as they deliver [keynote](/2nd_stem/keynotes/) talks on various business related STEM topics.
 
 **Presentations**: Participants are invited to [submit](https://forms.gle/meeDaTgScAXGPQuu5) abstracts of their research for oral/poster presentation at the symposium. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference – the idea here is to give participants the opportunity to discuss their research before an unfamiliar audience and get feedback which will help them improve their work for subsequent presentations. A poster session will allow participants to interact with different researchers on their displayed research topics.
 
-**Workshops**: In intensive skills sessions, experts will deliver [workshops](/2nd_stem/workshops/)  on “How to give a technical presentation” and “How to write research fellowship applications”.
+**Workshops**: In intensive skills sessions, experts will deliver [workshops](/2nd_stem/workshops/) on “How to give a technical presentation” and “How to write research fellowship applications”.
 
 **Panel Discussion**: An open panel discussion session that allows panelists to briefly introduce/discuss their outlined focus areas and to field questions from the participants and share their experiences and perspectives related to their journeys to their current careers. Focus will include:
 

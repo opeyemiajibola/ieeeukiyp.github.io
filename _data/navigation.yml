@@ -1,33 +1,33 @@
 main:
-  - title: "Home"
+  - title: 'Home'
     url: /
-  - title: "Upcoming Events"
+  - title: 'Upcoming Events'
     url: /categories/upcoming-events/
-  - title: "Previous Events"
+  - title: 'Previous Events'
     url: /categories/previous-events/
-  - title: "About us"
+  - title: 'About us'
     url: /about/
 
 home_sidebar:
-  - title: "Home"
+  - title: 'Home'
     url: /
-  - title: "Upcoming Events"
+  - title: 'Upcoming Events'
     url: /categories/upcoming-events/
-  - title: "Previous Events"
+  - title: 'Previous Events'
     url: /categories/previous-events/
-  - title: "About us"
+  - title: 'About us'
     url: /about/
 
 stem_symp_sidebar:
-  - title: "Symposium"
+  - title: 'Symposium'
     url: /2nd_stem/
-  - title: "Keynote and Panelist"
+  - title: 'Keynote and Panelist'
     url: /2nd_stem/keynotes/
-  - title: "Workshops"
+  - title: 'Workshops'
     url: /2nd_stem/workshops/
-  - title: "Committee"
+  - title: 'Committee'
     url: /2nd_stem/committee/
-  - title: "Venues"
+  - title: 'Venues'
     url: /2nd_stem/venues/
-  - title: "Schedule"
+  - title: 'Schedule'
     url: /2nd_stem/schedule/
