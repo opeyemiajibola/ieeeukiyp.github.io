@@ -1,5 +1,5 @@
 ---
-title: "2<sup>nd</sup> IEEE UK&I YP Postgrad STEM Research Symposium"
+title: '2<sup>nd</sup> IEEE UK&I YP Postgrad STEM Research Symposium'
 date: 2019-10-23T23:34:30+01:00
 permalink: /2nd_stem/
 categories:
@@ -7,23 +7,19 @@ categories:
 tags:
   - stem
   - Leeds
-sidebar:
-  - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
-  [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLSeDmaFIVbYLSmBbvkKWVVyZtRapcTI0aO_75W6BwDnofLv9Dg/viewform){: .btn .btn--success}"
-    nav: "stem_symp_sidebar"
 sponsors:
   - url: https://edu.ieee.org/uk-leeds/
     image_path: /assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png
-    alt: "University of Leeds"
+    alt: 'University of Leeds'
   - url: https://ieeeukiyp.org/
     image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
-    alt: "IEEE UK & Ireland (UK&I) Young Professionals"
+    alt: 'IEEE UK & Ireland (UK&I) Young Professionals'
   - url: https://www.comsoc.org/
     image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
-    alt: "IEEE Comsoc"
-  - url: http://ieee-aess.org/          
+    alt: 'IEEE Comsoc'
+  - url: http://ieee-aess.org/
     image_path: /assets/images/2nd_stem/aess_logo.jpg
-    alt: "IEEE Comsoc"   
+    alt: 'IEEE Comsoc'
 ---
 
 The YP Postgraduate STEM Research Symposium is single day event that
