@@ -60,23 +60,6 @@ received.
 </tbody>
 </table>
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><img src="\assets\images\2nd_yp\report\image3.jpeg"/></p>
-<p>3: Welcome address by Prof Robert Kelsall</p></td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr class="odd">
-<td><p><img src="\assets\images\2nd_yp\report\image4.jpeg"/></p>
-<p>4: Welcome address by Dr Matt Ritchie (AESS)</p></td>
-</tr>
-</tbody>
-</table>
-
 After collecting their symposium pack at the registration desk, attendees
 networked as they had welcome coffee. The morning session of the event began
 with welcome talks by the Head of School, School of Electronic & Electrical
@@ -93,6 +76,12 @@ discussed their research with symposium attendees in a professional setting.
 
 <table>
 <tbody>
+<tr class="odd">
+<td><p><img src="\assets\images\2nd_yp\report\image3.jpeg"/></p>
+<p>3: Welcome address by Prof Robert Kelsall</p></td>
+<td><p><img src="\assets\images\2nd_yp\report\image4.jpeg"/></p>
+<p>4: Welcome address by Dr Matt Ritchie (AESS)</p></td>
+</tr>
 <tr class="odd">
 <td><p><img src="\assets\images\2nd_yp\report\image5.jpeg" style="width:2.9539in;height:1.9685in" /></p>
 <p>5: Prof Mike Hinchey chatting with other speakers after his engaging keynote talk</p></td>
@@ -134,11 +123,11 @@ presentations.
 <tr class="odd">
 <td><p><img src="\assets\images\2nd_yp\report\image10.jpeg" style="width:2.89482in;height:1.92913in" /></p>
 <p>10: A cross-section of attendees networking over lunch</p></td>
-<td><p><img src="\assets\images\2nd_yp\report\image11.jpeg" style="width:3.01362in;height:2.00787in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image12.jpeg" style="width:3.01362in;height:2.00787in" /></p>
 <p>11: More attendees networking over lunch</p></td>
 </tr>
 <tr class="odd">
-<td><p><img src="\assets\images\2nd_yp\report\image12.jpeg" style="width:2.84226in;height:2.00787in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image11.jpeg" style="width:2.84226in;height:2.00787in" /></p>
 <p>12: Attendee viewing symposium poster presentation</p></td>
 <td><p><img src="\assets\images\2nd_yp\report\image13.jpeg" style="width:2.84226in;height:2.00787in" /></p>
 <p>13: A presenter discussing her research with an attendee</p></td>
@@ -168,38 +157,27 @@ interactive panel discussion.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><img src="\assets\images\2nd_yp\report\image14.jpeg"/></p>
-<p>14: Prof. Peter Jimack (Keynote)</p></td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr class="odd">
 <td><p><img src="\assets\images\2nd_yp\report\image15.jpeg"/></p>
+<p>14: Prof. Peter Jimack (Keynote)</p></td>
+<td><p><img src="\assets\images\2nd_yp\report\image14.jpeg"/></p>
 <p>15: Prof. Mohsen Razavi delivering a workshop</p></td>
 </tr>
-</tbody>
-</table>
-
-<table>
-<tbody>
 <tr class="odd">
-<td><p><img src="\assets\images\2nd_yp\report\image16.jpeg" style="width:2.89482in;height:1.92913in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image16.jpeg" /></p>
 <p>16: Prof. Christoph Wälti delivering a workshop</p></td>
-<td><p><img src="\assets\images\2nd_yp\report\image17.jpeg" style="width:3.01362in;height:2.00787in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image17.jpeg" /></p>
 <p>17: Eric Hawthorn delivering a keynote talk</p></td>
 </tr>
 <tr class="odd">
-<td><p><img src="\assets\images\2nd_yp\report\image18.jpeg" style="width:2.84226in;height:2.00787in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image18.jpeg"  /></p>
 <p>18: Oral presentation by postgraduate researcher</p></td>
-<td><p><img src="\assets\images\2nd_yp\report\image19.jpeg" style="width:2.84226in;height:2.00787in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image20.jpeg"  /></p>
 <p>19: Oral presentation by postgraduate researcher</p></td>
 </tr>
 <tr class="odd">
-<td><p><img src="\assets\images\2nd_yp\report\image20.jpeg" style="width:2.84226in;height:2.00787in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image19.jpeg"  /></p>
 <p>20: Oral presentation by postgraduate researcher</p></td>
-<td><p><img src="\assets\images\2nd_yp\report\image21.jpeg" style="width:2.84226in;height:2.00787in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image21.jpeg"  /></p>
 <p>21: Panelists during an interactive discussion session</p></td>
 </tr>
 </tbody>
@@ -217,9 +195,9 @@ interactive panel discussion.
 <table>
 <tbody>
 <tr class="even">
-<td><p><img src="\assets\images\2nd_yp\report\image23.jpeg" style="width:2.14253in;height:1.92913in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image23.jpeg" /></p>
 <p>23: Kieran Bull receives award and certificate for best poster presentation</p></td>
-<td><p><img src="\assets\images\2nd_yp\report\image24.jpeg" style="width:2.89482in;height:1.92913in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image24.jpeg" /></p>
 <p>24: Simon Obute receives award and certificate for best oral presentation</p></td>
 </tr>
 </tbody>
@@ -338,7 +316,7 @@ Dr Mustafa Bakr (University of Leeds IEEE Student Branch, Chair)
 
 Dr Thaddeus Eze (IEEE UK & Ireland YP Vice Chair)
 
-# Appendix
+<!-- # Appendix
 
 ## List of Symposium Presenters
 
@@ -371,4 +349,4 @@ Dr Thaddeus Eze (IEEE UK & Ireland YP Vice Chair)
 | Sheena Worthington        | University of Chester               | Both     | New Chemical Processing and Recycling Technologies for Autocatalysts                                                                                                   |
 | Simon Obute               | University of Leeds                 | Oral     | RepAtt: Achieving Swarm Coordination through Chemotaxis                                                                                                                |
 | Sophie Middleton          | Northumbria University              | Poster   | Towards digital citizenship: A digital literacy curriculum to support teachers in the classroom                                                                        |
-| Valentina Casadei         | University of Liverpool             | Oral     | EEG signal processing with a smart model-based tting: a comparison with traditional methods                                                                            |
+| Valentina Casadei         | University of Liverpool             | Oral     | EEG signal processing with a smart model-based tting: a comparison with traditional methods                                                                            | -->
