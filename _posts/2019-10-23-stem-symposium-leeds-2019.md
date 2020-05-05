@@ -48,9 +48,9 @@ received.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><img src="\assets\images\2nd_yp\report\image1.jpeg" style="width:2.95323in;height:1.80139in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image1.jpeg"/></p>
 <p>1: Some attendees and volunteers at registration desk</p></td>
-<td><p><img src="\assets\images\2nd_yp\report\image2.jpeg" style="width:3.10208in;height:1.81794in" /></p>
+<td><p><img src="\assets\images\2nd_yp\report\image2.jpeg"/></p>
 <p>2: Some attendees networking before symposium kick-off</p></td>
 </tr>
 </tbody>
@@ -73,9 +73,9 @@ discussed their research with symposium attendees in a professional setting.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><img src="\assets\images\2nd_yp\report\image3.jpeg"/></p>
-<p>3: Welcome address by Prof Robert Kelsall</p></td>
 <td><p><img src="\assets\images\2nd_yp\report\image4.jpeg"/></p>
+<p>3: Welcome address by Prof Robert Kelsall</p></td>
+<td><p><img src="\assets\images\2nd_yp\report\image3.jpeg"/></p>
 <p>4: Welcome address by Dr Matt Ritchie (AESS)</p></td>
 </tr>
 <tr class="odd">
