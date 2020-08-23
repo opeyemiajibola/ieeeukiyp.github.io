@@ -1,5 +1,5 @@
 ---
-title: '2016 - IEEE YP Open Day - Dublin'
+title: 'Young Entrepreneurs Open Day, Greenwich – June 2016'
 date: 2016-01-01T23:34:30+01:00
 categories:
   - previous-events
