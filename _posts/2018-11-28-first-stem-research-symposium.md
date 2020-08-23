@@ -1,91 +1,91 @@
 ---
-title: "YP STEM Research Symposium 2018, University of Chester "
+title: '2018 - YP STEM Research Symposium - Chester '
 date: 2018-11-28T23:34:30+01:00
 categories:
   - previous-events
 tags:
   - Chester
 sidebar:
-  nav: "home_sidebar"
+  nav: 'home_sidebar'
 gallery_01:
   - url:
     image_path: /assets/images/1st_stem/image-1.jpg
-    alt: "Dr Helen Southall"
-    title: "Dr Helen Southall"
+    alt: 'Dr Helen Southall'
+    title: 'Dr Helen Southall'
   - url:
     image_path: /assets/images/1st_stem/image-2.jpg
-    alt: "Prof Mike Hinchey"
-    title: "Prof Mike Hinchey"
+    alt: 'Prof Mike Hinchey'
+    title: 'Prof Mike Hinchey'
 gallery_02:
   - url:
     image_path: /assets/images/1st_stem/image-4-1.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-3-2.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
 gallery_03:
   - url:
     image_path: /assets/images/1st_stem/image-5.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-6.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
 gallery_04:
   - url:
     image_path: /assets/images/1st_stem/image-9.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-8.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-7.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-10.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
 gallery_05:
   - url:
     image_path: /assets/images/1st_stem/image-11.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-12.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-13.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
 gallery_06:
   - url:
     image_path: /assets/images/1st_stem/image-17.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-16.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-15.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
   - url:
     image_path: /assets/images/1st_stem/image-14.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
 gallery_07:
   - url:
     image_path: /assets/images/1st_stem/image-18.jpg
-    alt: ""
-    title: ""
+    alt: ''
+    title: ''
 ---
 
 The YP Postgraduate STEM Research Symposium was a single day event that

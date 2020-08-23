@@ -1,13 +1,14 @@
 ---
-title: "IEEE Young Entrepreneurs Open Day -Edinburgh,UK- 2017"
+title: '2017 - IEEE Young Entrepreneurs Open Day - Edinburgh'
 date: 2017-09-30T23:34:30+01:00
 categories:
   - previous-events
 tags:
   - Edinburgh
 sidebar:
-  nav: "home_sidebar"
+  nav: 'home_sidebar'
 ---
+
 {% include video id="H5PG6Z3XfY8" provider="youtube" %}
 
 # Event summary of IEEE Young Entrepreneurs Open Day, Edinburgh,UK 2017
@@ -29,7 +30,7 @@ The one-day event will include talks from technical and business experts, who wi
 There is a lot going on at the open day to help you achieve your career goals, including:
 • Introduction to IEEE services for student sand young professional members.
 
-Don't miss out on this amazing program where you can meet some of the biggest names in the technology industry, as well as enhance your knowledge, skills and network with industry professionals. 
+Don't miss out on this amazing program where you can meet some of the biggest names in the technology industry, as well as enhance your knowledge, skills and network with industry professionals.
 
 [FULL PROGRAMME LIST](https://drive.google.com/file/d/0B4qTNvaOMM0ydzF1eUcxYkw0b0E/view){: .btn .btn--success}
 
@@ -41,7 +42,7 @@ Edinburgh is the capital city of Scotland and one of its 32 council areas. It is
 
 University of Edinburgh , Old College, South Bridge, Edinburgh EH8 9YL
 
-[HOW TO GET THERE](http://www.ed.ac.uk/visit/city/getting-here ){: .btn .btn--success}
+[HOW TO GET THERE](http://www.ed.ac.uk/visit/city/getting-here){: .btn .btn--success}
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d4468.560317550601!2d-3.189241!3d55.944516!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb21928d390bbc0ee!2sThe%20University%20of%20Edinburgh!5e0!3m2!1sen!2suk!4v1567019535014!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 

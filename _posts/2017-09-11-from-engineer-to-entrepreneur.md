@@ -1,14 +1,13 @@
 ---
-title: "From Engineer to Entrepreneur - Event Report"
+title: '2017 - From Engineer to Entrepreneur - Dublin'
 date: 2017-09-11T23:34:30+01:00
 categories:
   - previous-events
 tags:
   - Dublin
 sidebar:
-  nav: "home_sidebar"
+  nav: 'home_sidebar'
 ---
-by Koushik Kumar Nundy
 
 On September 11, 2017, a talk, titled \"From Engineer to Entrepreneur\"
 was organised by the Dublin chapter of **Founder Institute** and the UK
@@ -19,7 +18,7 @@ UK&I. Here is the [flyer](\assets\eng_to_ent\FIandIEEEflyer.pdf) of the event.
 
 [![](https://1.bp.blogspot.com/-884CN_Lfu2w/WdexOE6D0mI/AAAAAAAA61A/pbK65rXkOtodCffdxMI3FsV3var0m8tBwCKgBGAs/s400/IMG_20170911_194301.jpg)](https://1.bp.blogspot.com/-884CN_Lfu2w/WdexOE6D0mI/AAAAAAAA61A/pbK65rXkOtodCffdxMI3FsV3var0m8tBwCKgBGAs/s1600/IMG_20170911_194301.jpg)<br>
 _The wonderful audience_
-  
+
 The event started off with the wonderful [**Patricia
 Scanlon**](https://www.linkedin.com/in/patricia-scanlon-9190429/), CEO
 of [Soapbox,](http://www.soapboxlabs.com/) who walked us through her
@@ -62,7 +61,6 @@ for her talk at InspireFest2017!
 
 Patricia was followed by the delightful [Neal O\'
 Gorman](https://www.linkedin.com/in/nealogorman/).
-
 
 Having graduated from Electronic Engineering in University College
 Dublin, Neal has gone on to become a serial entrepreneur with Artomatix

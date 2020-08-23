@@ -1,5 +1,5 @@
 ---
-title: "IEEE YP Open Day 2016"
+title: '2016 - IEEE YP Open Day - Dublin'
 date: 2016-01-01T23:34:30+01:00
 categories:
   - previous-events
@@ -7,33 +7,34 @@ tags:
   - data-science
   - Dublin
 sidebar:
-  nav: "home_sidebar"
+  nav: 'home_sidebar'
 sponsors_gallery:
   - url: http://www.awe.co.uk/
     image_path: /assets/images/opd_16/sp1.jpg
-    alt: "AWE"
-    title: "Gold sponsor"
+    alt: 'AWE'
+    title: 'Gold sponsor'
   - url: https://digitalgarage.withgoogle.com/
     image_path: /assets/images/opd_16/sp2.jpg
-    alt: "The digital garage"
-    title: "Our supporting partner"
+    alt: 'The digital garage'
+    title: 'Our supporting partner'
   - url: http://www.ieee-ukandireland.org/
     image_path: /assets/images/opd_16/sp3.jpg
-    alt: "IEEE UK and Ireland"
-    title: "Our supporting partner"
+    alt: 'IEEE UK and Ireland'
+    title: 'Our supporting partner'
   - url: http://www.ieee-ukandireland.org/
     image_path: /assets/images/opd_16/sp4.jpg
-    alt: "IBM"
-    title: "Our supporting partner"
+    alt: 'IBM'
+    title: 'Our supporting partner'
   - url: http://www.joinef.com/
     image_path: /assets/images/opd_16/sp5.jpg
-    alt: "ef"
-    title: "Our supporting partner"
+    alt: 'ef'
+    title: 'Our supporting partner'
   - url: https://www.gre.ac.uk
     image_path: /assets/images/opd_16/sp6.jpg
-    alt: "University of Greenwich"
-    title: "Our supporting partner"
+    alt: 'University of Greenwich'
+    title: 'Our supporting partner'
 ---
+
 {% include video id="H5PG6Z3XfY8" provider="youtube" %}
 
 # Event summary of IEEE Young Entrepreneurs Open Day, London 2016
@@ -42,7 +43,7 @@ More than 90 students and young professionals gathered to take part in the much-
 
 Following opening announcements by the IEEE section committee, the delegates had the opportunity to take part in interactive workshops provided by Google Digital Garage, IBM, Entrepreneur First, and a full schedule of speakers offering advice and experience in entrepreneurship ranging from the current Vice President of the IMechE to professional networking coaches. A social lunch and IEEE drop-in sessions allowed for the delegates to find out more about the IEEE and its numerous affinity groups and chapters, and the opportunity to take advantage of current registration offers. This included the Student Activities Committee, the Young Professionals subcommittee, the Women in Engineering affinity group and the Power and Energy Society chapter amongst others. Representatives from AWE, the main event sponsor, were on-hand to explain entrepreneurial opportunities within their UK-based organisation. The event continued late into the afternoon with personal networking and social activities, and interviews with speakers and delegates affirmed the overwhelmingly positive feel of the day.
 
-On behalf of the IEEE UK and Ireland section we would like to give our sincere thanks to all speakers, exhibitors, sponsors, committee members and above all attendees who made this event such a success. The Section is already planning a major industrial and technological showcase event in collaboration with the IEEE MGA under the banner of SmartTech that will take place during 21-22 October in Birmingham. The next IEEE Young Entrepreneurs Day is now being planned to take place in Ireland later in 2016, so check the UK and Ireland Section website and social media for more details! 
+On behalf of the IEEE UK and Ireland section we would like to give our sincere thanks to all speakers, exhibitors, sponsors, committee members and above all attendees who made this event such a success. The Section is already planning a major industrial and technological showcase event in collaboration with the IEEE MGA under the banner of SmartTech that will take place during 21-22 October in Birmingham. The next IEEE Young Entrepreneurs Day is now being planned to take place in Ireland later in 2016, so check the UK and Ireland Section website and social media for more details!
 
 # Programme
 
@@ -54,7 +55,7 @@ There is a lot going on at the open day to help you achieve your career goals, i
 • Professional advice and resources on business and start-ups, career development, technology jobs.
 • Introduction to IEEE services for student sand young professional members.
 
-Don't miss out on this amazing program where you can meet some of the biggest names in the technology industry, as well as enhance your knowledge, skills and network with industry professionals. 
+Don't miss out on this amazing program where you can meet some of the biggest names in the technology industry, as well as enhance your knowledge, skills and network with industry professionals.
 
 [FULL PROGRAMME LIST](https://drive.google.com/open?id=0B4qTNvaOMM0ySWljSnBBYzZKTWs){: .btn .btn--success}
 
