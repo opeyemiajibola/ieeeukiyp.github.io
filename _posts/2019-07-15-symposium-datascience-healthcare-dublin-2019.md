@@ -1,5 +1,5 @@
 ---
-title: '2019 - IEEE YP Symposium on the Impact of Data Science in Healthcare - Dublin'
+title: 'YP Symposium on the Impact of Data Science in Healthcare, Dublin – July 2019'
 date: 2019-07-15T23:34:30+01:00
 categories:
   - previous-events

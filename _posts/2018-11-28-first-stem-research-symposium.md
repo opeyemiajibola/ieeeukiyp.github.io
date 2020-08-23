@@ -1,5 +1,5 @@
 ---
-title: '2018 - YP STEM Research Symposium - Chester '
+title: '1st YP Postgraduate STEM Research Symposium, Chester – November 2018'
 date: 2018-11-28T23:34:30+01:00
 categories:
   - previous-events

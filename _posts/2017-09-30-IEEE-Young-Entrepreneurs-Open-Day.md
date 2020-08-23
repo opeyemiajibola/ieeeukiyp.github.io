@@ -1,5 +1,5 @@
 ---
-title: '2017 - IEEE Young Entrepreneurs Open Day - Edinburgh'
+title: 'Young Entrepreneurs Open Day, Edinburgh – September 2017'
 date: 2017-09-30T23:34:30+01:00
 categories:
   - previous-events

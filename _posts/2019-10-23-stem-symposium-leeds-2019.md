@@ -1,5 +1,5 @@
 ---
-title: '2019 - 2<sup>nd</sup> IEEE UK&I YP Postgrad STEM Research Symposium - Leeds'
+title: '2nd YP Postgraduate STEM Research Symposium, Leeds – October 2019'
 date: 2019-10-23T23:34:30+01:00
 permalink: /2nd_stem/
 categories:
