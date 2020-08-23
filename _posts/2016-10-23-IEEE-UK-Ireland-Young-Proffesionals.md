@@ -1,5 +1,5 @@
 ---
-title: '2016 - Pitch Bootcamp Event - Manchester'
+title: 'Pitch bootcamp, Manchester – October 2016'
 date: 2016-10-22T23:34:30+01:00
 categories:
   - previous-events

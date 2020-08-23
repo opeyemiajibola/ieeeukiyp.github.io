@@ -9,8 +9,6 @@ sidebar:
   nav: 'home_sidebar'
 ---
 
-{% include video id="H5PG6Z3XfY8" provider="youtube" %}
-
 # Event summary of IEEE Young Entrepreneurs Open Day, Edinburgh,UK 2017
 
 Welcome to the IEEE Young Entrepreneurs Open Day 2017!

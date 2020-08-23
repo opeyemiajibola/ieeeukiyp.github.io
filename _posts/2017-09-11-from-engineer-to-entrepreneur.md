@@ -1,5 +1,5 @@
 ---
-title: '2017 - From Engineer to Entrepreneur - Dublin'
+title: 'From Engineer to Entrepreneur, Dublin – September 2017'
 date: 2017-09-11T23:34:30+01:00
 categories:
   - previous-events
