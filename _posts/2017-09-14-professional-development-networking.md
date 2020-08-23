@@ -1,5 +1,5 @@
 ---
-title: '2017 - Professional Development & Networking Evening -  Manchester'
+title: 'Professional Development and Networking Evening Workshop (PDNet), Manchester – September 2017'
 date: 2017-11-14T23:34:30+01:00
 categories:
   - previous-events
