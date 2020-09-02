@@ -22,7 +22,9 @@ You can check our previous event reports [here](/categories/previous-events/)
 
 ### West European Student and Young Professional Congress (WESYP) 2019
 
-{% include video id="17BWEBLxBYwXYvmg6-2aQ2tWvKzkaV4RW" provider="google-drive" %}
+Check the event report [here]({% post_url 2019-09-23-wesyp-glasgow-2019 %})
+
+{% include image-gallery.html folder="/assets/images/wesp/report/" %}
 
 ### 2<sup>nd</sup> IEEE UK&I YP Postgrad STEM Research Symposium
 
