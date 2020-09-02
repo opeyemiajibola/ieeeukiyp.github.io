@@ -9,4 +9,4 @@ sidebar:
   nav: 'home_sidebar'
 ---
 
-Under construction
+2-hour introductory session to familiarise yourself with Arduino Programming
