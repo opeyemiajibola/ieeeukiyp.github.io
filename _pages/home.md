@@ -20,17 +20,21 @@ IEEE UK & Ireland (UK&I) Young Professionals is an Affinity Group for electrical
 
 You can check our previous event reports [here](/categories/previous-events/)
 
-### West European Student and Young Professional Congress (WESYP) 2019
+### West European Student and Young Professional Congress (WESYP), Glasgow – September 2019
 
-Check the event report [here]({% post_url 2019-09-23-wesyp-glasgow-2019 %})
+Link [here]({% post_url 2019-09-23-wesyp-glasgow-2019 %})
 
 {% include image-gallery.html folder="/assets/images/wesp/report/" %}
 
-### 2<sup>nd</sup> IEEE UK&I YP Postgrad STEM Research Symposium
+### 2<sup>nd</sup> YP Postgraduate STEM Research Symposium, Leeds – October 2019
+
+Link [here]({% post_url 2019-10-23-stem-symposium-leeds-2019 %})
 
 {% include image-gallery.html folder="/assets/images/2nd_yp/homepage" %}
 
-### IEEE YP Symposium on the Impact of Data Science in Healthcare
+### YP Symposium on the Impact of Data Science in Healthcare, Dublin – July 2019
+
+Link [here]({% post_url 2019-07-15-symposium-datascience-healthcare-dublin-2019 %})
 
 {% include image-gallery.html folder="/assets/images/sym_dublin_2019" %}
 
