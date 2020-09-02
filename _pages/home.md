@@ -38,10 +38,14 @@ Link [here]({% post_url 2019-07-15-symposium-datascience-healthcare-dublin-2019 
 
 {% include image-gallery.html folder="/assets/images/sym_dublin_2019" %}
 
-### YP STEM Research Symposium 2018, University of Chester
+### 1st YP Postgraduate STEM Research Symposium, Chester – November 2018
+
+Link [here]({% post_url 2018-11-28-first-stem-research-symposium %})
 
 {% include image-gallery.html folder="/assets/images/1st_stem" %}
 
-### IEEE YP Open Day 2016
+### Young Entrepreneurs Open Day, Greenwich – June 2016
+
+Link [here]({% post_url 2016-01-01-Young-Entrepreneurs-Open-Day-Greenwich %})
 
 {% include image-gallery.html folder="/assets/images/opd_16/gallery" %}
