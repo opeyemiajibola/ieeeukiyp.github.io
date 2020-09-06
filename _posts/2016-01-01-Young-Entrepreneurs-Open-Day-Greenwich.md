@@ -5,7 +5,7 @@ categories:
   - previous-events
 tags:
   - data-science
-  - Dublin
+  - Greenwich
 sidebar:
   nav: 'home_sidebar'
 sponsors_gallery:

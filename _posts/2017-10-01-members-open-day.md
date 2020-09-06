@@ -4,7 +4,7 @@ date: 2017-10-01 21:38
 categories:
   - previous-events
 tags:
-  - Dublin
+  - London
 sidebar:
   nav: 'home_sidebar'
 ---

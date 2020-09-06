@@ -4,18 +4,16 @@ date: 2017-10-02 21:41
 categories:
   - previous-events
 tags:
-  - Dublin
+  - Manchester
 sidebar:
   nav: 'home_sidebar'
 ---
-
-# MEEPS 2017 -- Big Data Applications in Power Systems, Manchester -- November 2017
 
 MEEPS (Manchester Energy and Electrical Power Systems) is the biggest
 yearly workshop organised by The IEEE Student Branch Power and Energy
 (PES) Chapter at the University of Manchester. This year, the workshop
 which is titled "Big Data Applications in Power Systems" was held from
-09:00 -- 17:00 on **3^rd^ November,2017** in  a new home at the
+09:00 -- 17:00 on **3rd November, 2017** in  a new home at the
 Manchester Conference Centre, Sackville Street, Manchester, M1 3BB.
 
 ## YP Involvement
