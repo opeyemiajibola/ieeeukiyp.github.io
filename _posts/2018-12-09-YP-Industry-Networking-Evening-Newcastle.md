@@ -17,7 +17,7 @@ recent graduates and young professionals) and industry personnel.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><img src="\assets\images\2018_YP_industry\image1.jpeg"/></p>
+<td><p><img src="\assets\images\2018_YP_industry\image1.jpg"/></p>
 <p>Fig. 1: Organising Committee</p></td>
 </tr>
 </tbody>
@@ -39,7 +39,7 @@ networking that followed them.
 <table>
 <tbody>
 <tr class="odd">
-<td><p><img src="\assets\images\2018_YP_industry\image2.jpeg"/></p>
+<td><p><img src="\assets\images\2018_YP_industry\image2.jpg"/></p>
 <p>Fig. 2: Dr Khalid Hashim sharing his experience and providing tips on publishing scientific papers on high quality journals
 </p></td>
 </tr>
