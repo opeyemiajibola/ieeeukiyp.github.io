@@ -4,6 +4,7 @@ date: 2019-06-03 20:14
 category: previous-events
 tags:
   - Oxford
+  - conference
 sidebar:
   nav: 'home_sidebar'
 ---

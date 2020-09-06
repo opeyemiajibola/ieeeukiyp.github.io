@@ -4,6 +4,7 @@ date: 2019-05-13 20:14
 category: previous-events
 tags:
   - Brighton
+  - workshop
 sidebar:
   nav: 'home_sidebar'
 ---

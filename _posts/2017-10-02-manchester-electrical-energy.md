@@ -5,6 +5,7 @@ categories:
   - previous-events
 tags:
   - Manchester
+  - workshop
 sidebar:
   nav: 'home_sidebar'
 ---

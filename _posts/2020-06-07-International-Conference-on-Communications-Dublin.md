@@ -4,6 +4,7 @@ date: 2020-06-07 20:14
 category: previous-events
 tags:
   - Dublin
+  - conference
 sidebar:
   nav: 'home_sidebar'
 ---

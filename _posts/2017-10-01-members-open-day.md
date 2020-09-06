@@ -5,6 +5,7 @@ categories:
   - previous-events
 tags:
   - London
+  - open-day
 sidebar:
   nav: 'home_sidebar'
 ---

@@ -4,6 +4,7 @@ date: 2018-12-09 20:14
 category: previous-events
 tags:
   - Newcastle
+  - networking
 sidebar:
   nav: 'home_sidebar'
 ---

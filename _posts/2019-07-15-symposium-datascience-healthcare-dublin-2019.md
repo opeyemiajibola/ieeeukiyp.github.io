@@ -6,6 +6,7 @@ categories:
 tags:
   - data-science
   - Dublin
+  - symposium
 sidebar:
   nav: 'home_sidebar'
 gallery_01:

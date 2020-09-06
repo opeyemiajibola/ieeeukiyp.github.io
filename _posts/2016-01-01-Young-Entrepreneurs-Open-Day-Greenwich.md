@@ -6,6 +6,7 @@ categories:
 tags:
   - data-science
   - Greenwich
+  - open-day
 sidebar:
   nav: 'home_sidebar'
 sponsors_gallery:

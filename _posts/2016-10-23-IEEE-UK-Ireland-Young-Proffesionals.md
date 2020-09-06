@@ -5,6 +5,7 @@ categories:
   - previous-events
 tags:
   - Manchester
+  - bootcamp
 sidebar:
   nav: 'home_sidebar'
 ---

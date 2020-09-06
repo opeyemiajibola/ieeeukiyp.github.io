@@ -4,6 +4,7 @@ date: 2018-08-31 18:41
 category: previous-events
 tags:
   - Dublin
+  - workshop
 sidebar:
   nav: 'home_sidebar'
 ---

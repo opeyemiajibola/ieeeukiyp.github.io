@@ -5,6 +5,7 @@ categories:
   - previous-events
 tags:
   - Chester
+  - symposium
 sidebar:
   nav: 'home_sidebar'
 gallery_01:

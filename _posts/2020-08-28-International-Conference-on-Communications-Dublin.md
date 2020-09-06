@@ -4,6 +4,7 @@ date: 2020-08-28 20:14
 category: upcoming-events
 tags:
   - Glasgow
+  - conference
 sidebar:
   nav: 'home_sidebar'
 ---

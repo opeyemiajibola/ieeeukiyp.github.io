@@ -5,6 +5,7 @@ categories:
   - previous-events
 tags:
   - Krakow
+  - congress
 sidebar:
   nav: 'home_sidebar'
 ---

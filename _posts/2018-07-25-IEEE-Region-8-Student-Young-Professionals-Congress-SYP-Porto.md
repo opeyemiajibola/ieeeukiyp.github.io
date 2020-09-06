@@ -4,6 +4,7 @@ date: 2018-07-25 20:14
 category: previous-events
 tags:
   - Porto
+  - congress
 sidebar:
   nav: 'home_sidebar'
 ---

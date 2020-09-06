@@ -5,6 +5,7 @@ categories:
   - previous-events
 tags:
   - Manchester
+  - networking
 sidebar:
   nav: 'home_sidebar'
 ---

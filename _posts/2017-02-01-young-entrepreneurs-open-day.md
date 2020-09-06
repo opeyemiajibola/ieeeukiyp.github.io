@@ -5,6 +5,7 @@ categories:
   - previous-events
 tags:
   - Northampton
+  - open-day
 sidebar:
   nav: 'home_sidebar'
 ---
