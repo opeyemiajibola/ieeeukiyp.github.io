@@ -18,7 +18,7 @@ The event was held on 13th May 2019 at The Brighton Centre.
 
 Event details as follows:
 
-#### Young Professionals Development Workshop
+## Young Professionals Development Workshop
 
 Join the [SPS Young Professionals](https://signalprocessingsociety.org/professional-development/young-professionals-signal-processing)
 and [Present Your Science's](https://www.presentyourscience.com/)
