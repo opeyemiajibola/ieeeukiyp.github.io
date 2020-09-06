@@ -6,6 +6,7 @@ categories:
 tags:
   - Chester
   - symposium
+  - stem
 sidebar:
   nav: 'home_sidebar'
 gallery_01:
