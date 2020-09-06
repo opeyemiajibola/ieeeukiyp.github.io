@@ -9,10 +9,6 @@ sidebar:
   nav: 'home_sidebar'
 ---
 
-<figure>
-	<img src="/assets/images/2018_syp/image1.png">
-</figure>
-
 The biennial IEEE Region-8 Congress was an excellent opportunity to
 share knowledge and experience the largest event held under the umbrella
 of IEEE across the region, for young professionals and students alike.
@@ -25,6 +21,10 @@ Mr. Opeyemi Ajibola from Leeds, Mr. Koushik Kumar Nundy from Dublin and
 Mr. Daniel Perez Martins from Waterford participated in the event,
 sharing overall experience of their maiden IEEE SYP congress
 participation with this report.
+
+<figure>
+	<img src="/assets/images/2018_syp/image1.png">
+</figure>
 
 The 2018 edition of this event took place in the warm and welcoming
 coastal city of Porto, North West of Portugal with a finely crafted
