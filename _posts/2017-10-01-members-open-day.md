@@ -47,32 +47,32 @@ Registration Link
 <table>
 <tbody>
 <tr class="odd">
-<td><p><img src="/assets/images/2017_members_open/image17.png"/></p></td>
-<td><p><img src="/assets/images/2017_members_open/image9.png"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image17.jpg"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image9.jpg"/></p></td>
 </tr>
 <tr class="even">
-<td><p><img src="/assets/images/2017_members_open/image15.png"/></p></td>
-<td><p><img src="/assets/images/2017_members_open/image7.png"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image15.jpg"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image7.jpg"/></p></td>
 </tr>
 <tr class="odd">
-<td><p><img src="/assets/images/2017_members_open/image13.png"/></p></td>
-<td><p><img src="/assets/images/2017_members_open/image10.png"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image13.jpg"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image10.jpg"/></p></td>
 </tr>
 <tr class="even">
-<td><p><img src="/assets/images/2017_members_open/image8.png"/></p></td>
-<td><p><img src="/assets/images/2017_members_open/image11.png"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image8.jpg"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image11.jpg"/></p></td>
 </tr>
 <tr class="odd">
-<td><p><img src="/assets/images/2017_members_open/image18.png"/></p></td>
-<td><p><img src="/assets/images/2017_members_open/image19.png"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image18.jpg"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image19.jpg"/></p></td>
 </tr>
 <tr class="even">
-<td><p><img src="/assets/images/2017_members_open/image14.png"/></p></td>
-<td><p><img src="/assets/images/2017_members_open/image3.png"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image14.jpg"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image3.jpg"/></p></td>
 </tr>
 <tr class="odd">
-<td><p><img src="/assets/images/2017_members_open/image12.png"/></p></td>
-<td><p><img src="/assets/images/2017_members_open/image6.png"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image12.jpg"/></p></td>
+<td><p><img src="/assets/images/2017_members_open/image6.jpg"/></p></td>
 </tr>
 </tbody>
 </table>
