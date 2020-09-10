@@ -22,30 +22,20 @@ You can check our previous event reports [here](/categories/previous-events/)
 
 ### [West European Student and Young Professional Congress (WESYP), Glasgow – September 2019]({% post_url 2019-09-23-wesyp-glasgow-2019 %})
 
-Link [here]({% post_url 2019-09-23-wesyp-glasgow-2019 %})
-
 {% include image-gallery.html folder="/assets/images/wesp/report/" %}
 
-### 2<sup>nd</sup> YP Postgraduate STEM Research Symposium, Leeds – October 2019
-
-Link [here]({% post_url 2019-10-23-stem-symposium-leeds-2019 %})
+### [2<sup>nd</sup> YP Postgraduate STEM Research Symposium, Leeds – October 2019]({% post_url 2019-10-23-stem-symposium-leeds-2019 %})
 
 {% include image-gallery.html folder="/assets/images/2nd_yp/homepage" %}
 
-### YP Symposium on the Impact of Data Science in Healthcare, Dublin – July 2019
-
-Link [here]({% post_url 2019-07-15-symposium-datascience-healthcare-dublin-2019 %})
+### [YP Symposium on the Impact of Data Science in Healthcare, Dublin – July 2019]({% post_url 2019-07-15-symposium-datascience-healthcare-dublin-2019 %})
 
 {% include image-gallery.html folder="/assets/images/sym_dublin_2019" %}
 
-### 1st YP Postgraduate STEM Research Symposium, Chester – November 2018
-
-Link [here]({% post_url 2018-11-28-first-stem-research-symposium %})
+### [1st YP Postgraduate STEM Research Symposium, Chester – November 2018]({% post_url 2018-11-28-first-stem-research-symposium %})
 
 {% include image-gallery.html folder="/assets/images/1st_stem" %}
 
-### Young Entrepreneurs Open Day, Greenwich – June 2016
-
-Link [here]({% post_url 2016-01-01-Young-Entrepreneurs-Open-Day-Greenwich %})
+### [Young Entrepreneurs Open Day, Greenwich – June 2016]({% post_url 2016-01-01-Young-Entrepreneurs-Open-Day-Greenwich %})
 
 {% include image-gallery.html folder="/assets/images/opd_16/gallery" %}
