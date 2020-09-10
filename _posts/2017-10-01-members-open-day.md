@@ -41,7 +41,7 @@ Registration Link
 [https://www.eventbrite.co.uk/e/ieee-uk-and-ireland-members-open-day-2017-tickets-37412235002\#](https://www.eventbrite.co.uk/e/ieee-uk-and-ireland-members-open-day-2017-tickets-37412235002#)
 
 <figure>
-	<img src="/assets/images/2017_members_open/image4.png">
+	<img src="/assets/images/2017_members_open/image4.jpg">
 </figure>
 
 <table>
