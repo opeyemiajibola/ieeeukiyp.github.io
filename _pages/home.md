@@ -20,7 +20,7 @@ IEEE UK & Ireland (UK&I) Young Professionals is an Affinity Group for electrical
 
 You can check our previous event reports [here](/categories/previous-events/)
 
-### West European Student and Young Professional Congress (WESYP), Glasgow – September 2019
+### [West European Student and Young Professional Congress (WESYP), Glasgow – September 2019]({% post_url 2019-09-23-wesyp-glasgow-2019 %})
 
 Link [here]({% post_url 2019-09-23-wesyp-glasgow-2019 %})
 
