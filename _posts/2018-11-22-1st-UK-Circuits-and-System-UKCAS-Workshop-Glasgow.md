@@ -19,7 +19,7 @@ YP participated in first edition of UK Circuit and System (UKCAS) workshop focus
 </tr>
 <tr class="even">
 <td><p><img src="\assets\images\2018_cas\image03.jpg"/></p></td>
-<td><p><img src="\assets\images\2018_cas\image04.jpg"/></p></td>
+<td><p><img src="\assets\images\2018_cas\image04.JPG"/></p></td>
 </tr>
 </tbody>
 </table>
