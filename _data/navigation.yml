@@ -31,3 +31,17 @@ stem_symp_sidebar:
     url: /2nd_stem/venues/
   - title: 'Schedule'
     url: /2nd_stem/schedule/
+
+stem_symp_sidebar_2021:
+  - title: 'Symposium'
+    url: /3rd_stem/
+  - title: 'Keynote and Panelist'
+    url: /3rd_stem/keynotes/
+  - title: 'Workshops'
+    url: /3rd_stem/workshops/
+  - title: 'Committee'
+    url: /3rd_stem/committee/
+  - title: 'Venues'
+    url: /3rd_stem/venues/
+  - title: 'Schedule'
+    url: /3rd_stem/schedule/
