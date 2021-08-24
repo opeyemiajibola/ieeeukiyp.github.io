@@ -1,5 +1,5 @@
 ---
-title: "Third IEEE UK&I YP Postgrad STEM Research Symposium"
+title: 'Third IEEE UK&I YP Postgrad STEM Research Symposium'
 date: 2021-11-10 10:00
 permalink: /3rd_stem/
 categories: upcoming-events
@@ -7,66 +7,62 @@ tags:
   - stem
   - Leeds
 sidebar:
-  - text: "[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}
-  [REGISTER NOW](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}"
-    nav: "stem_symp_sidebar_2021"
+  - text: '[REGISTER NOW](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}'
+    nav: 'stem_symp_sidebar_2021'
 sponsors:
-  - url: https://edu.ieee.org/uk-leeds/
-    image_path: /assets/images/stem_leeds_2019/UniLeeds-SB-Logo-1.png
-    alt: "University of Leeds"
   - url: https://ieeeukiyp.org/
     image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
-    alt: "IEEE UK & Ireland (UK&I) Young Professionals"
-  - url: https://www.comsoc.org/
-    image_path: /assets/images/2nd_stem/ieee-comsoc_log.png
-    alt: "IEEE Comsoc"
-  - url: http://ieee-aess.org/          
-    image_path: /assets/images/2nd_stem/aess_logo.jpg
-    alt: "IEEE Comsoc"   
+    alt: 'IEEE UK & Ireland (UK&I) Young Professionals'
 ---
+
+_The future of STEM in a shifting landscape_
 
 Wednesday, 10<sup>th</sup> November 2021
 
-## Hosted by the School of Electronic and Electrical Engineering, University of Leeds
+The IEEE Young Professionals, UK & Ireland Section, is hosting a virtual postgraduate STEM research symposium
 
 {% include gallery id="sponsors" layout="half" %}
-
-IEEE UK & Ireland Young Professionals and the University of Leeds IEEE Student Branch cordially invite you to the third postgraduate research STEM symposium.
 
 This **FREE ONE DAY** symposium is an opportunity for early career STEM researchers, especially PGRs (PhD and MPhil), to present their research, receive feedback, and explore the possibilities of turning research to enterprise.
 
 {% include video id="7uQ2C0_H8d8" provider="youtube" %}
 _The first symposium held at the University of Chester in 2018_
 
-The symposium is open to research professionals and students across the country and beyond and we are now accepting submissions of abstracts for research work for papers and poster presentation. **The deadline for abstract submission is 1<sup>st</sup> October 2021 and free registration is open until the same date.**
+The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of abstracts for research work for oral and poster presentations. No full paper submission is required. **The deadline for abstract submission is 1st October 2021 and free registration is open until the same date. There is a chance to win research quality and best presentation awards (4 awards in all).**
 
-[SUBMIT YOUR ABSTRACT](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
+# SUBMIT YOUR ABSTRACT
+
+Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.**
 
 [REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
+
+{% include video id="VpRnFgfOR8w " provider="youtube" %}
+_The second symposium held at the University of Leeds in 2019_
+
+# Symposium Features
+
+The event focuses on research presentations, posters, keynote, panel discussion, workshop, awards, and a networking event with Industry participation. See event [flyer](https://docs.google.com/presentation/d/1P3O54kFGYQcXtCl_Nya3jTpofHBM4q7n/view)
+
+# Keynote and workshop:
+
+Learn from notable experts as they deliver [keynote](https://ieeeukiyp.org/3rd_stem/keynotes/) talks on various STEM topics.
+
+# Presentations
+
+Participants are invited to [submit](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform) abstracts of their research for oral/poster presentation at the symposium. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required -- the idea here is to give participants the opportunity to discuss their research before an unfamiliar audience and get feedback which will help them improve their work for subsequent presentations. A poster session will allow participants to interact with different researchers on their displayed research topics.
 
 {% include video id="IpwV_UNs9BE" provider="youtube" %}
 _What participants said about the first symposium_
 
-## Symposium Features
+# Panel Discussion
 
-The event focuses on research presentations, research-to-enterprise pitches, keynote talks, panel discussion, workshops, awards and a networking event with Industry participation. Take a look to our [flyer](https://docs.google.com/presentation/d/1P3O54kFGYQcXtCl_Nya3jTpofHBM4q7n/view).
+Panelists to briefly introduce/discuss their outlined focus areas and to field questions from the participants and share their experiences and perspectives. The panel discussion on '_The future of STEM in a shifting landscape_' will cover the following areas:
 
-**Keynotes**: Learn from notable experts and entrepreneurs as they deliver [keynote](/3rd_stem/keynotes/) talks on various business related STEM topics.
+- Machine Learning / Artificial Intelligence
+- Regulations in medical devices
+- Blockchain technology
+- 5/6G technology
 
-**Presentations**: Participants are invited to [submit](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform) abstracts of their research for oral/poster presentation at the symposium. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference – the idea here is to give participants the opportunity to discuss their research before an unfamiliar audience and get feedback which will help them improve their work for subsequent presentations. A poster session will allow participants to interact with different researchers on their displayed research topics.
+# Awards
 
-**Workshops**: In intensive skills sessions, experts will deliver [workshops](/3rd_stem/workshops/) on “How to give a technical presentation” and “How to write research fellowship applications”.
-
-**Panel Discussion**: An open panel discussion session that allows panelists to briefly introduce/discuss their outlined focus areas and to field questions from the participants and share their experiences and perspectives related to their journeys to their current careers. Focus will include:
-
-- Pathways to industry
-- Pathways to academia
-- Becoming an entrepreneur
-- Professional registration
-- Benefits of professional body membership
-- Starting MPhil/PhD (by a fresh MPhil/PhD student)
-- Finishing MPhil/PhD (by an MPhil/PhD student in their final stages)
-
-**Awards**: The IEEE UK & Ireland Young Professionals is sponsoring awards for “Best Oral Presentation” and “Best Poster Presentation”.
-
-**Networking Event**: A chance to network with symposium attendees and speakers over a 3-course dinner. Participants who choose to attend the networking dinner will pay a fee of about £15.00 to the restaurant. Indicate your interest at registration.
+The IEEE UK & Ireland Young Professionals is sponsoring Judges' and Audience's Choice awards for "Best Oral Presentation" and "Best Poster Presentation".
