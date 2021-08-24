@@ -1,7 +1,7 @@
 ---
 title: 'Third IEEE UK&I YP Postgrad STEM Research Symposium - Schedule'
 date: 2021-11-10 10:00
-permalink: /3rd_stem/schedule
+permalink: /3rd_stem/schedule/
 categories: support
 tags:
   - stem

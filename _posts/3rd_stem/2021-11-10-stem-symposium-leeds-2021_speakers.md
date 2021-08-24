@@ -1,7 +1,7 @@
 ---
 title: 'Third IEEE UK&I YP Postgrad STEM Research Symposium - Speakers'
 date: 2021-11-10 10:00
-permalink: /3rd_stem/keynotes
+permalink: /3rd_stem/keynotes/
 categories: support
 tags:
   - stem
