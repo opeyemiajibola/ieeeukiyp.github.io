@@ -34,7 +34,7 @@ The symposium is open to professionals and students across the country and beyon
 
 Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.**
 
-[REGISTER NOW](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform){: .btn .btn--success}
+[REGISTER NOW](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}
 
 {% include video id="VpRnFgfOR8w " provider="youtube" %}
 _The second symposium held at the University of Leeds in 2019_

@@ -47,10 +47,29 @@ She worked as a lecturer and senior lecturer at King's College London, Uni of Gr
 
 Professor Nigel John is a Fellow of the Eurographics Association and a Fellow of the Learned Society of Wales. He obtained his PhD in Mathematical Sciences from the University of Bath in 1990. Following a career in industry working for ICI/Zeneca and Silicon Graphics Inc., he returned to academia and has held senior posts at the University of Manchester and Bangor University before joining the University of Chester. Whilst at Bangor he was instrumental in setting up the pan-Wales Research Institute of Visual Computing. At Chester, he leads the Medical Graphics research group. Throughout his career he has been proactive in applying computer graphics and related technology to medical applications. In 2006 he received the international Satava Award for his accomplishments to the field of computer graphics and medical visualization.
 
-### Auindrila
+### Auindrila Das
 
 <figure>
-	<img src="/assets/images/3rd_stem/Auindrila.jpeg" style="max-width:150px">
+	<img src="/assets/images/3rd_stem/Auindrila Das.jpg" style="max-width:150px">
 </figure>
 
 Auindrila is a quality assurance and regulatory affairs expert in the medical device industry. With a decade of experience in Biomedical Sciences and Masters in Molecular Medicine from Trinity College Dublin, Auindrila is a thought leader in both Medtech and Pharma industries. Auindrila has a deep passion for disruptive technology and has developed her expertise to support innovators who share that ardour.
+
+
+### Dr Avishek Nag
+
+<figure>
+	<img src="/assets/images/3rd_stem/Dr Avishek Nag.jpg" style="max-width:150px">
+</figure>
+
+Dr Avishek Nag is currently an Assistant Professor in the School of Electrical and Electronic Engineering at UCD. 
+Dr Nag received his PhD degree from the University of California, Davis in 2012. He worked as a research associate at the CONNECT Centre for future networks and communication in Trinity College Dublin. Dr Nag has published over 65 publications that include journals, conference proceedings, and book chapters. His research interests include Optical Networks, Software-Defined Networks, Machine Learning, Blockchain, and the Internet of Things. Dr Nag is a senior member of the IEEE and also the outreach lead for Ireland for the IEEE UK and Ireland Blockchain Group. He also serves on the editorial boards for the IEEE Transactions on Green Communications and Networking, Frontiers in Blockchain, and Frontiers in Communications and Networks.
+
+### Dr Soumyabrata Dev
+
+<figure>
+	<img src="/assets/images/3rd_stem/Dr Soumyabrata Dev.jpeg" style="max-width:150px">
+</figure>
+
+Soumyabrata Dev is an Assistant Professor at the School of Computer Science, University College Dublin. Prior to that, he was a postdoctoral researcher at ADAPT SFI Research Centre, Dublin, Ireland. 
+He obtained his PhD from Nanyang Technological University (NTU) Singapore, in 2017. From Aug-Dec 2015, he was a visiting student at Audiovisual Communication Laboratory (LCAV), École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. He graduated summa cum laude from the National Institute of Technology Silchar, India with a B.Tech. in 2010. He is an IEEE member and has published over 70+ papers. His research interests include remote sensing, statistical image processing, machine learning, and deep learning.
