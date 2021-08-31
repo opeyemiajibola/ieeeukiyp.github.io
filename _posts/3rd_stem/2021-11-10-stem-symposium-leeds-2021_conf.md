@@ -41,7 +41,7 @@ _The second symposium held at the University of Leeds in 2019_
 
 # Symposium Features
 
-The event focuses on research presentations, posters, keynote, panel discussion, workshop, awards, and a networking event with Industry participation. See event [flyer](https://docs.google.com/presentation/d/1P3O54kFGYQcXtCl_Nya3jTpofHBM4q7n/view)
+The event focuses on research presentations, posters, keynote, panel discussion, workshop, awards, and a networking event with Industry participation. See the event [flyer](https://docs.google.com/presentation/d/1Tj8MhwLSM9N6B9Bsem_FQy9wyoFwqIJg/view)
 
 # Keynote and workshop:
 
@@ -65,4 +65,4 @@ Panelists to briefly introduce/discuss their outlined focus areas and to field q
 
 # Awards
 
-The IEEE UK & Ireland Young Professionals is sponsoring Judges' and Audience's Choice awards for "Best Oral Presentation" and "Best Poster Presentation".
+The IEEE UK & Ireland Young Professionals is sponsoring Judges' and Audience's Choice awards for "Best Oral Presentation" and "Best Poster Presentation". Each award is up to £100

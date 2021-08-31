@@ -20,42 +20,55 @@ Wednesday, 10<sup>th</sup> November 2021
 <table>
   <thead>
     <tr class="header">
-      <th><strong>Time </strong></th>
-      <th><strong>Session </strong></th>
-      <th><strong>Speaker/Anchor </strong></th>
+      <th>
+        <strong>Time </strong>
+      </th>
+      <th>
+        <strong>Session </strong>
+      </th>
+      <th>
+        <strong>Speaker/Anchor </strong>
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr class="odd">
       <td>10:00-10:10</td>
       <td>
-        <p><strong> Greetings and welcome </strong></p>
+        <p>
+          <strong> Greetings and welcome </strong>
+        </p>
         <p>To include opening remarks and welcome address</p>
       </td>
       <td>
+        TBA
       </td>
     </tr>
     <tr class="even">
       <td>10:10-10:50</td>
       <td>
-        <p><strong> Keynote 1 </strong></p>
+        <strong> Keynote 1 </strong>
       </td>
       <td>
+        Dr Mona Ghassemian
       </td>
     </tr>
     <tr class="odd">
       <td>10:50-11:50</td>
       <td>
-        <p><strong> Paper Presentation Group 1 </strong></p>
+        <p>
+          <strong> Paper Presentation Group 1 </strong>
+        </p>
          Tracks, if required, TBC
       </td>
       <td>
+        TBA
       </td>
     </tr>
     <tr class="even">
       <td>11:50-12:20</td>
       <td>
-        <p><strong> Break </strong></p>
+        <strong> Break </strong>
       </td>
       <td>
       </td>
@@ -63,27 +76,33 @@ Wednesday, 10<sup>th</sup> November 2021
     <tr class="odd">
       <td>12:20-12:50</td>
       <td>
-        <p><strong> Workshop session </strong></p>
+        <p>
+          <strong> Workshop session </strong>
+        </p>
         <p>
           Posters available on a link – participants to view posters and vote
         </p>
       </td>
       <td>
+        Prof Nigel John
       </td>
     </tr>
     <tr class="even">
       <td>12:50-13:50</td>
       <td>
-        <p><strong> Paper Presentation Group 2 </strong></p>
+        <p>
+          <strong> Paper Presentation Group 2 </strong>
+        </p>
          Tracks, if required, TBC
       </td>
       <td>
+        TBA
       </td>
     </tr>
     <tr class="odd">
       <td>13:50-14:10</td>
       <td>
-        <p><strong> Break </strong></p>
+        <strong> Break </strong>
       </td>
       <td>
       </td>
@@ -91,18 +110,25 @@ Wednesday, 10<sup>th</sup> November 2021
     <tr class="even">
       <td>14:10-15:40</td>
       <td>
-        <p><strong>Panellists</strong></p>
-        <p>4 panellists: Panel Discussion An open discussion session that allows panellists to briefly discuss their outlined focus areas and to field questions from the attendees</p>
+        <p>
+          <strong>Panel discussion on the future of STEM in a shifting landscape</strong>
+        </p>
+        <p>An open discussion session that allows panellists to briefly discuss their outlined focus areas and to field questions from the attendees</p>
       </td>
       <td>
+        <p>Dr Cyril Onwubiko</p>
+        <p>Auindrila Das</p>
+        <p>Dr Avishek Nag</p>
+        <p>Dr Soumyabrata Dev</p>
       </td>
     </tr>
     <tr class="odd">
       <td>15:40-15:50</td>
       <td>
-        <p><strong>Closing Remarks & Awards Ceremony </strong></p>
+        <strong>Closing Remarks & Awards Ceremony </strong>
       </td>
       <td>
+        Thaddeus and Noel
       </td>
     </tr>
   </tbody>
