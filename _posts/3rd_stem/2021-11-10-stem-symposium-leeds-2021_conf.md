@@ -47,7 +47,7 @@ Learn from notable experts as they deliver [keynote](https://ieeeukiyp.org/3rd_s
 
 # Presentations
 
-Participants are invited to [submit](https://docs.google.com/forms/d/e/1FAIpQLScc-PwLXCjWlXFSW3gZV38aU1iiRDb0zHMwfKTZcZL6QXGXgQ/viewform) abstracts of their research for oral/poster presentation at the symposium. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required -- the idea here is to give participants the opportunity to discuss their research before an unfamiliar audience and get feedback which will help them improve their work for subsequent presentations. A poster session will allow participants to interact with different researchers on their displayed research topics.
+Participants are invited to [submit](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform) abstracts of their research for oral/poster presentation at the symposium. The submissions will be classified and presented through different tracks. This is not a peer reviewed conference and full paper submission is not required -- the idea here is to give participants the opportunity to discuss their research before an unfamiliar audience and get feedback which will help them improve their work for subsequent presentations. A poster session will allow participants to interact with different researchers on their displayed research topics.
 
 {% include video id="IpwV_UNs9BE" provider="youtube" %}
 _What participants said about the first symposium_
