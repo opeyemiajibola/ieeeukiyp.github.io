@@ -75,10 +75,10 @@ Wednesday, 10<sup>th</sup> November 2021
       <td>12:20-12:50</td>
       <td>
         <p>
-          <strong> Workshop session </strong>
+          <strong> eXtended Reality (XR) and Healthcare Applications - A Personal Review and Forward-Look </strong>
         </p>
         <p>
-          Posters available on a link – participants to view posters and vote
+          Posters available online, interact with them and and vote their choice for award
         </p>
       </td>
       <td>
