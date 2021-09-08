@@ -67,6 +67,9 @@ Wednesday, 10<sup>th</sup> November 2021
       <td>11:50-12:20</td>
       <td>
         <strong> Break </strong>
+        <p>
+          (Note:Participants are advised to check the posters available online, interact with them and and vote their choice for award.)
+        </p>
       </td>
       <td>
       </td>
@@ -76,9 +79,6 @@ Wednesday, 10<sup>th</sup> November 2021
       <td>
         <p>
           <strong> Workshop Topic: eXtended Reality (XR) and Healthcare Applications - A Personal Review and Forward-Look </strong>
-        </p>
-        <p>
-          (Note:Participants are advised to check the posters available online, interact with them and and vote their choice for award.)
         </p>
       </td>
       <td>
