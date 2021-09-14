@@ -50,7 +50,7 @@ PhD student, University of Sussex, Volunteer, Early Careers Officer, IEEE UK & I
 ### Ifeoma Onugha
 
 <figure>
-	<img src="/assets/images/3rd_stem/committee/Ifeoma Onugha.jpg" style="max-width:150px">
+	<img src="/assets/images/3rd_stem/committee/Ifeoma Onugha.JPG" style="max-width:150px">
 </figure>
 
 PhD researcher, Institute of Communication and Power Networks, University of Leeds, Volunteer, IEEE UK & Ireland Young Professionals
