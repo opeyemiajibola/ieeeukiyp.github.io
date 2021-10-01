@@ -26,7 +26,7 @@ This **FREE ONE DAY** symposium is an opportunity for early career STEM research
 {% include video id="7uQ2C0_H8d8" provider="youtube" %}
 _The first symposium held at the University of Chester in 2018_
 
-The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of abstracts for research work for oral and poster presentations. No full paper submission is required. **The deadline for abstract submission is 1st October 2021 and free registration is open until the same date. There is a chance to win research quality and best presentation awards (4 awards in all).**
+The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of abstracts for research work for oral and poster presentations. No full paper submission is required. **The deadline for abstract submission has been extended to 15th October 2021 and free registration is open until the same date. There is a chance to win research quality and best presentation awards (4 awards in all).**
 
 # SUBMIT YOUR ABSTRACT
 
