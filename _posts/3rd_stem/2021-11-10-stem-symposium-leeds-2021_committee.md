@@ -20,23 +20,20 @@ Wednesday, 10<sup>th</sup> November 2021
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Opeyemi Ajibola.jpg" style="max-width:150px">
 </figure>
-
-Institute of Communication and Power Networks, University of Leeds, Volunteer, IEEE UK & Ireland Young Professionals
+Committee co-Chair, Institute of Communication and Power Networks, University of Leeds, Volunteer, IEEE UK & Ireland Young Professionals
 
 ### Dr Thaddeus Eze
 
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Thaddeus Eze.jpg" style="max-width:150px">
 </figure>
-
-University of Chester, Volunteer, Vice Chair, IEEE UK & Ireland Young Professionals
+Committee Chair, University of Chester, Volunteer, Vice Chair, IEEE UK & Ireland Young Professionals
 
 ### Dr Daniel Martins
 
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Daniel Martins.jpg" style="max-width:150px">
 </figure>
-
 Walton Institute, Volunteer, Area Co-Chair for Ireland, IEEE UK & Ireland Young Professionals
 
 ### Ferheen Ayaz
@@ -44,7 +41,6 @@ Walton Institute, Volunteer, Area Co-Chair for Ireland, IEEE UK & Ireland Young 
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Ferheen Ayaz.jpg" style="max-width:150px">
 </figure>
-
 PhD student, University of Sussex, Volunteer, Early Careers Officer, IEEE UK & Ireland Cybersecurity Group
 
 ### Ifeoma Onugha
@@ -52,7 +48,6 @@ PhD student, University of Sussex, Volunteer, Early Careers Officer, IEEE UK & I
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Ifeoma Onugha.JPG" style="max-width:150px">
 </figure>
-
 PhD researcher, Institute of Communication and Power Networks, University of Leeds, Volunteer, IEEE UK & Ireland Young Professionals
 
 ### Dr Moises Jezzini
@@ -60,7 +55,6 @@ PhD researcher, Institute of Communication and Power Networks, University of Lee
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Moises Jezzini.jpg" style="max-width:150px">
 </figure>
-
 Facebook Reality Labs, Volunteer, IEEE UK & Ireland Young Professionals and IEEE Photonics
 
 ### Noora Almarri
@@ -68,7 +62,6 @@ Facebook Reality Labs, Volunteer, IEEE UK & Ireland Young Professionals and IEEE
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Noora Almarri.jpg" style="max-width:150px">
 </figure>
-
 University College London, Volunteer, IEEE UK & Ireland Young Professionals
 
 ### Alan Ferguson
@@ -76,7 +69,6 @@ University College London, Volunteer, IEEE UK & Ireland Young Professionals
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Alan Ferguson.jpg" style="max-width:150px">
 </figure>
-
 PhD Student at Queen's University Belfast, Volunteer, IEEE UK & Ireland Young Professionals
 
 ### Dr Nazila Fough
@@ -84,13 +76,11 @@ PhD Student at Queen's University Belfast, Volunteer, IEEE UK & Ireland Young Pr
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Nazila Fough.jpg" style="max-width:150px">
 </figure>
-
 Robert Gordon University, Volunteer, Secretary, IEEE UK & Ireland Young Professionals
 
 ### Koushik Kumar Nundy  
 
 <figure>
-	<img src="/assets/images/3rd_stem/committee/Koushik Kumar Nundy.jpg" style="max-width:150px">
+	<img src="/assets/images/3rd_stem/committee/Koushik Nundy.jpg" style="max-width:150px">
 </figure>
-
 CTO, Think Biosolution, Volunteer, IEEE UK & Ireland Young Professionals
