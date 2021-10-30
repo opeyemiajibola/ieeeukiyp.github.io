@@ -81,6 +81,6 @@ Robert Gordon University, Volunteer, Secretary, IEEE UK & Ireland Young Professi
 ### Koushik Kumar Nundy  
 
 <figure>
-	<img src="/assets/images/3rd_stem/committee/Koushik Nundy.jpg" style="max-width:150px">
+	<img src="/assets/images/3rd_stem/committee/Koushik-Nundy.jpg" style="max-width:150px">
 </figure>
 CTO, Think Biosolution, Volunteer, IEEE UK & Ireland Young Professionals
