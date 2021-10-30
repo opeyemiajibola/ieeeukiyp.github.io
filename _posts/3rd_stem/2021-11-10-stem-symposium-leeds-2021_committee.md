@@ -76,3 +76,21 @@ University College London, Volunteer, IEEE UK & Ireland Young Professionals
 <figure>
 	<img src="/assets/images/3rd_stem/committee/Alan Ferguson.jpg" style="max-width:150px">
 </figure>
+
+PhD Student at Queen's University Belfast, Volunteer, IEEE UK & Ireland Young Professionals
+
+### Dr Nazila Fough
+
+<figure>
+	<img src="/assets/images/3rd_stem/committee/Nazila Fough.jpg" style="max-width:150px">
+</figure>
+
+Robert Gordon University, Volunteer, Secretary, IEEE UK & Ireland Young Professionals
+
+### Koushik Kumar Nundy  
+
+<figure>
+	<img src="/assets/images/3rd_stem/committee/Koushik Kumar Nundy.jpg" style="max-width:150px">
+</figure>
+
+CTO, Think Biosolution, Volunteer, IEEE UK & Ireland Young Professionals
