@@ -59,7 +59,7 @@ Wednesday, 10<sup>th</sup> November 2021
         </p>
         <p>10:50 – 11:05	Sara Khosravi (University of Glasgow): Enhancing STEM Education using Wearable Biofeedback</p>
         <p>11:05 – 11:20	Shruthi Kumar (University of Strathclyde): Investment Games for Rural 5G Neutral Host Network</p>
-        <p>11:20 – 11:35	Mohamed Moustafa (University of Leeds): An investigation of breathing rate monitoring using low-resolution thermal infrared imaging</p>
+        <p>11:20 – 11:35	Mohamed Moustafa (NUI, Galway): An investigation of breathing rate monitoring using low-resolution thermal infrared imaging</p>
         <p>11:35 – 11:50	Toyosi Oyinloye (University of Chester): Control Flow Hijacks in Execution Paths of X86 and RISC-V-based binaries</p>
 
       </td>
