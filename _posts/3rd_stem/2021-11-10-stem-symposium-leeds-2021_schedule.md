@@ -39,7 +39,7 @@ Wednesday, 10<sup>th</sup> November 2021
         <p>To include opening remarks and welcome address</p>
       </td>
       <td>
-        TBA
+       Dr Thaddeus Eze
       </td>
     </tr>
     <tr class="even">
@@ -64,7 +64,7 @@ Wednesday, 10<sup>th</sup> November 2021
 
       </td>
       <td>
-        TBA
+        Dr Daniel Martins
       </td>
     </tr>
     <tr class="even">
@@ -104,7 +104,7 @@ Wednesday, 10<sup>th</sup> November 2021
         <p>13:35 – 13:50	Bamidele Ogunjumelo (University of Kent): Volumetric Reconstruction of Burner Flames through Deep Learning</p>
       </td>
       <td>
-        TBA
+        Ferheen Ayaz
       </td>
     </tr>
     <tr class="odd">
@@ -128,6 +128,7 @@ Wednesday, 10<sup>th</sup> November 2021
         <p>Auindrila Das</p>
         <p>Dr Avishek Nag</p>
         <p>Dr Soumyabrata Dev</p>
+        <p>Koushik Nundy</p>
       </td>
     </tr>
     <tr class="odd">
