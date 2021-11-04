@@ -57,7 +57,11 @@ Wednesday, 10<sup>th</sup> November 2021
         <p>
           <strong> Paper Presentation Group 1 </strong>
         </p>
-         Tracks, if required, TBC
+        <p>10:50 – 11:05	Sara Khosravi (University of Glasgow): Enhancing STEM Education using Wearable Biofeedback</p>
+        <p>11:05 – 11:20	Shruthi Kumar (University of Strathclyde): Investment Games for Rural 5G Neutral Host Network</p>
+        <p>11:20 – 11:35	Mohamed Moustafa (University of Leeds): An investigation of breathing rate monitoring using low-resolution thermal infrared imaging</p>
+        <p>11:35 – 11:50	Toyosi Oyinloye (University of Chester): Control Flow Hijacks in Execution Paths of X86 and RISC-V-based binaries</p>
+
       </td>
       <td>
         TBA
@@ -94,7 +98,10 @@ Wednesday, 10<sup>th</sup> November 2021
         <p>
           <strong> Paper Presentation Group 2 </strong>
         </p>
-         Tracks, if required, TBC
+        <p>12:50 – 13:05	Noor AlQallaf (University of Glasgow): Learning Sustainable Development using Game Based Virtual Reality</p>
+        <p>13:05 – 13:20	Linda Toča (University of Reading): Investigating SAR signal sensitivity to hydrological dynamics in peatlands: high resolution C-band laboratory study</p>
+        <p>13:20 – 13:35	Ashley Wood (University of Chester): Talos: An alternative approach to Intrusion Detection and Prevention</p>
+        <p>13:35 – 13:50	Bamidele Ogunjumelo (University of Kent): Volumetric Reconstruction of Burner Flames through Deep Learning</p>
       </td>
       <td>
         TBA
