@@ -1,5 +1,5 @@
 ---
-title: 'Arduino workshop, Dublin – 2020'
+title: 'Arduino workshop, Dublin – 2023'
 date: 2020-08-28 20:08
 category: upcoming-events
 tags:
@@ -20,7 +20,7 @@ simple codes to automate their own electronic projects.
 
 ### Projected Date
 
-- October 2020
+- Feb 2023
 
 ### Target Audience
 
