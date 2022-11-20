@@ -1,6 +1,6 @@
 ---
-title: 'Digital Health Conference, Dublin 2020'
-date: 2020-08-28 20:13
+title: 'Digital Health Conference, Dublin 2023'
+date: 2023-02-28 20:13
 category: upcoming-events
 tags:
   - Dublin
@@ -13,4 +13,4 @@ In recent years, the ICT field has devoted efforts to provide novel solutions in
 
 The full programme will be announced around mid-October.
 
-Date: 5th November 2020.
+Date: Summer 2023.
