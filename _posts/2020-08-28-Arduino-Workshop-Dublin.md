@@ -1,6 +1,6 @@
 ---
 title: 'Arduino workshop, Dublin – 2023'
-date: 2020-08-28 20:08
+date: 2022-08-28 20:08
 category: upcoming-events
 tags:
   - Dublin
