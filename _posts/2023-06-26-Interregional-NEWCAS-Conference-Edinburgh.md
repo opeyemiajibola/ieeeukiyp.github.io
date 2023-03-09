@@ -9,7 +9,8 @@ sidebar:
   nav: 'home_sidebar'
 ---
 
-Submission Process
+##Submission Process
+
 The 21st IEEE Interregional NEWCAS Conference will be held in Edinburgh, Scotland, on June 26 – 28, 2023. 
 
 There is a Young Professional (YP) track for early career researchers/ post graduate students. YP and PG students can submit two-page paper for YP session and deadline is 17 March 2023. All accepted paper will be published in IEEE Xplore.
