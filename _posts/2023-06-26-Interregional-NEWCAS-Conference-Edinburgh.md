@@ -9,7 +9,7 @@ sidebar:
   nav: 'home_sidebar'
 ---
 
-##Submission Process
+Submission Process
 
 The 21st IEEE Interregional NEWCAS Conference will be held in Edinburgh, Scotland, on June 26 – 28, 2023. 
 
