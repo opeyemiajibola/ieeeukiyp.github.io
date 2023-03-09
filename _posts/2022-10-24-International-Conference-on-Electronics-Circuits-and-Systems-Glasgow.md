@@ -1,6 +1,6 @@
 ---
 title: 'International Conference on Electronics Circuits and Systems, Glasgow, 2022'
-date: 2020-10-24 20:14
+date: 2022-10-24 20:14
 category: previous-events
 tags:
   - Glasgow
@@ -17,5 +17,5 @@ If you are interested to submit a poster or paper for ICECS, please make your pa
 
 
 <figure>
-	<img src="/assets/images/2020_icecs/image1.jpg">
+	<img src="/assets/images/2022_icecs/image1.jpg">
 </figure>
