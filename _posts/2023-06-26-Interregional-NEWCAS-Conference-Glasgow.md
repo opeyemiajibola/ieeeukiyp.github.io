@@ -22,5 +22,5 @@ There are a few prizes for best posters and papers presented by YP and female re
 Submit your paper [here](https://epapers2.org/newcas2023/ESR/login.php?epsc=YP28$)
 
 <figure>
-	<img src="/assets/images/2022_newcas/image1.jpg">
+	<img src="/assets/images/2021_newcas/image1.jpg">
 </figure>
