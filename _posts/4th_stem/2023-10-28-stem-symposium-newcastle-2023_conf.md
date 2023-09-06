@@ -5,6 +5,7 @@ permalink: /4th_stem/
 categories: upcoming-events
 tags:
 sidebar:
+  - text: '[SUBMIT ABSTRACT](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}'
   - text: '[REGISTER NOW](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}'
     nav: 'stem_symp_sidebar_2023'
 sponsors:
