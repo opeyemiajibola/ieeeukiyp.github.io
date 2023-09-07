@@ -5,7 +5,6 @@ permalink: /4th_stem/
 categories: upcoming-events
 tags:
 sidebar:
-  - text: '[SUBMIT ABSTRACT](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}'
   - text: '[REGISTER NOW](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}'
     nav: 'stem_symp_sidebar_2023'
 sponsors:
@@ -14,11 +13,11 @@ sponsors:
     alt: 'IEEE UK & Ireland (UK&I) Young Professionals'
 ---
 
-_The future of STEM in a shifting landscape_
+_Exploring the multidisciplinary landscape of technology_
 
-Wednesday, 10<sup>th</sup> November 2021
+Saturday, 28<sup>th</sup> October 2023
 
-The IEEE Young Professionals, UK & Ireland Section, is hosting a virtual postgraduate STEM research symposium
+The IEEE Young Professionals, UK & Ireland Section, is hosting a hybrid postgraduate STEM research symposium.
 
 {% include gallery id="sponsors" layout="half" %}
 
@@ -27,7 +26,7 @@ This **FREE ONE DAY** symposium is an opportunity for early career STEM research
 {% include video id="7uQ2C0_H8d8" provider="youtube" %}
 _The first symposium held at the University of Chester in 2018_
 
-The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of abstracts for research work for oral and poster presentations. No full paper submission is required. **The deadline for abstract submission has been extended to 18th October 2021 and free registration is open until the same date. There is a chance to win research quality and best presentation awards (4 awards in all).**
+The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of 1-page abstracts of research work for oral presentations. No full paper submission is required. **The deadline for abstract submission has been extended to 18th October 2023 and free registration is open until the same date. There is a chance to win research quality and best presentation awards (4 awards in all).**
 
 # SUBMIT YOUR ABSTRACT
 
@@ -44,7 +43,7 @@ The event focuses on research presentations, posters, keynote, panel discussion,
 
 # Keynote and workshop:
 
-Learn from notable experts as they deliver [keynote](https://ieeeukiyp.org/3rd_stem/keynotes/) talks on various STEM topics.
+Learn from notable experts as they deliver [keynote](https://ieeeukiyp.org/3rd_stem/keynotes/) talks on various STEM topics.The symposium will also offers workshops on a range of topics.
 
 # Presentations
 
@@ -53,14 +52,6 @@ Participants are invited to [submit](https://docs.google.com/forms/d/14a5HUKipHQ
 {% include video id="IpwV_UNs9BE" provider="youtube" %}
 _What participants said about the first symposium_
 
-# Panel Discussion
-
-Panelists to briefly introduce/discuss their outlined focus areas and to field questions from the participants and share their experiences and perspectives. The panel discussion on '_The future of STEM in a shifting landscape_' will cover the following areas:
-
-- Machine Learning / Artificial Intelligence
-- Regulations in medical devices
-- Blockchain technology
-- 5/6G technology
 
 # Awards
 
