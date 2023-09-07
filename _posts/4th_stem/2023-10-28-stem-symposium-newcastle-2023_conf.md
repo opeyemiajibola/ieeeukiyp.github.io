@@ -5,6 +5,7 @@ permalink: /4th_stem/
 categories: upcoming-events
 tags:
 sidebar:
+  - text: '[SUBMIT ABSTRACT](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}'
   - text: '[REGISTER NOW](https://docs.google.com/forms/d/14a5HUKipHQ8JKVHjiPbfj4F5vDLkF4p--VzIGqOMnRU/viewform){: .btn .btn--success}'
     nav: 'stem_symp_sidebar_2023'
 sponsors:
@@ -43,7 +44,7 @@ The event focuses on research presentations, posters, keynote, panel discussion,
 
 # Keynote and workshop:
 
-Learn from notable experts as they deliver [keynote](https://ieeeukiyp.org/3rd_stem/keynotes/) talks on various STEM topics.The symposium will also offers workshops on a range of topics.
+Learn from notable experts as they deliver [keynote](https://ieeeukiyp.org/3rd_stem/keynotes/) talks on various STEM topics. The symposium will also offers workshops on a range of topics.
 
 # Presentations
 
