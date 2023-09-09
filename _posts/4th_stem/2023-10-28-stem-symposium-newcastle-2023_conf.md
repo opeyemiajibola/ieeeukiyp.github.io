@@ -40,11 +40,11 @@ _The second symposium held at the University of Leeds in 2019_
 
 # Symposium Features
 
-The event focuses on research presentations, posters, keynote, panel discussion, workshop, awards, and a networking event with Industry participation. See the event [flyer](https://docs.google.com/presentation/d/1Tj8MhwLSM9N6B9Bsem_FQy9wyoFwqIJg/view)
+The event focuses on research presentations, posters, keynote, panel discussion, workshop, awards, and a networking event with Industry participation. See the event [flyer](assets\images\4th_stem\flyerland.jpeg)
 
 # Keynote and workshop:
 
-Learn from notable experts as they deliver [keynote](https://ieeeukiyp.org/3rd_stem/keynotes/) talks on various STEM topics. The symposium will also offers workshops on a range of topics.
+Learn from notable experts as they deliver [keynote](https://ieeeukiyp.org/) talks on various STEM topics. The symposium will also offers workshops on a range of topics.
 
 # Presentations
 
