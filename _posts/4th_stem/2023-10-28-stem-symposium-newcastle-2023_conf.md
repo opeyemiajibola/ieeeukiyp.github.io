@@ -40,7 +40,7 @@ _The second symposium held at the University of Leeds in 2019_
 
 # Symposium Features
 
-The event focuses on research presentations, posters, keynote, panel discussion, workshop, awards, and a networking event with Industry participation. See the event [flyer](assets\images\4th_stem\flyerland.jpeg)
+The event focuses on research presentations, posters, keynote, panel discussion, workshop, awards, and a networking event with Industry participation. See the event [flyer](assets/images/4th_stem/flyerland.jpeg)
 
 # Keynote and workshop:
 
