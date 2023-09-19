@@ -36,6 +36,8 @@ See symposoium call for paper [here](/assets/images/4th_stem/4thstemcfp.jpg)
 
 
 # SUBMIT YOUR ABSTRACT
+Abstract submission will be through Microsoft CMT, and **submission link will be made available soon.**
+Abstract submission guidelines are available [here](/assets/images/4th_stem/Abstract_Template_IEEE_PGR_STEM.pdf) 
 
 Non presenting participants are also invited to register. **Registration is required in order to receive joining instructions.**
 
