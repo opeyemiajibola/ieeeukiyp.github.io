@@ -29,6 +29,7 @@ _The first symposium held at the University of Chester in 2018_
 
 The symposium is open to professionals and students across the country and beyond and we are now accepting submissions of 1-page abstracts of research work for oral presentations. No full paper submission is required. **The deadline for abstract submission has been extended to 18th October 2023 and free registration is open until the same date. There is a chance to win research quality and best presentation awards (4 awards in all).**
 
+See symposoium call for paper [here](/assets/images/4th_stem/4thstemcfp.jpg) 
 <figure>
 	<img src="/assets/images/4th_stem/4thstemcfp.jpg">
 </figure>
