@@ -6,7 +6,7 @@ categories: support
 tags:
 sidebar:
   - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/YPSTEM2023/){: .btn .btn--success}'
-    nav: 'stem_symp_sidebar_2023'
+    nav: 'sitw_sidebar_2024'
 sponsors:
   - url: https://ieeeukiyp.org/
     image_path: /assets/images/IEEE_UK-Ireland_YP_Logo_RGB_Horz-1.png
