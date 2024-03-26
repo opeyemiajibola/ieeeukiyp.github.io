@@ -1,12 +1,13 @@
 ---
 title: 'IEEE Subsea Innovation Technologies Workshop, Aberdeen, 2024'
 date: 2024-03-24 03:20
+permalink: /SITW2024/
 category: upcoming-events
 tags:
   - Aberdeen
   - conference
 sidebar:
-  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/YPSTEM2023/){: .btn .btn--success}'
+  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/SITW'24){: .btn .btn--success}'
     nav: 'sitw_sidebar_2024'
 sponsors:
   - url: https://ieeeukiyp.org/
