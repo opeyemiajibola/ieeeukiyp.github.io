@@ -7,7 +7,6 @@ tags:
   - Aberdeen
   - conference
 sidebar:
-  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/SITW'24/){: .btn .btn--success}'
     nav: 'sitw_sidebar_2024'
 sponsors:
   - url: https://ieeeukiyp.org/
