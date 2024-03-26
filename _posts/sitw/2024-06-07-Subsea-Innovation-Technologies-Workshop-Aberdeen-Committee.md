@@ -1,11 +1,11 @@
 ---
 title: 'IEEE Subsea Innovation Technologies Workshop - Committee'
 date: 2024-03-24 03:20
-permalink: /sitw/committee/
+permalink: /SITW2024/committee/
 categories: support
 tags:
 sidebar:
-  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/YPSTEM2023/){: .btn .btn--success}'
+  - text: '[SUBMIT ABSTRACT](https://cmt3.research.microsoft.com/SITW'24){: .btn .btn--success}'
     nav: 'sitw_sidebar_2024'
 sponsors:
   - url: https://ieeeukiyp.org/
@@ -27,14 +27,14 @@ Robert Gordon University, Volunteer, Chair, IEEE UK & Ireland Young Professional
 <figure>
 	<img src="/assets/images/4th_stem/committee/Rajitha De Silva.jpeg" style="max-width:150px">
 </figure>
-Committee Chair, University of Lincoln, Volunteer,  Secretary, IEEE UK & Ireland Young Professionals
+Volunteer,  Secretary, IEEE UK & Ireland Young Professionals
 
 ### Dr Othman Yonnus
 
 <figure>
 	<img src="/assets/images/4th_stem/committee/Othman Yonnus.jpg" style="max-width:150px">
 </figure>
-Committee co-Chair, Volunteer, England Rep, IEEE UK & Ireland Young Professionals
+Volunteer, England Rep, IEEE UK & Ireland Young Professionals
 
 ### Dr Farid Mouawad
 
