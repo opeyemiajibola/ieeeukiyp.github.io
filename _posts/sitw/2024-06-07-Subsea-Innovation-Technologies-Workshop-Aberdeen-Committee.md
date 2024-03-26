@@ -13,7 +13,7 @@ sponsors:
     alt: 'IEEE UK & Ireland (UK&I) Young Professionals'
 ---
 
-Saturday, 18<sup>th</sup> November 2023
+7<sup>th</sup> June 2024
 
 ### Dr Nazila Fough
 
